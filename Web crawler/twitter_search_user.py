@@ -62,7 +62,7 @@ def get_token():
                 tokens = f.read()
             return tokens
         except Exception as e:
-            print("获取token出错:", e)
+            print("Error in obtaining token:", e)
 
 
 def get_html(url):
