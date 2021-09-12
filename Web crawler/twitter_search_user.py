@@ -149,7 +149,7 @@ def get_twitter_article(data, keyword,df,index,file):
                     info['m_parent_id'] = ''
                     forward_info['r_parent_id'] = ''
 
-                # Forward tweets.
+                # Forwarded tweets.
                 if info['m_parent_id']:
                     # the url of the forwarded tweets.
                     # m_parent_url = '{}/status/'.format(user_url) + info['m_parent_id']
