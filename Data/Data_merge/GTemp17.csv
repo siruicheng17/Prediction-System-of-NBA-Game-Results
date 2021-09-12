@@ -1,0 +1,477 @@
+,Unnamed: 0,Date,tweets,Unnamed: 0.1,Unnamed: 0.1.1,Rk,G,Age,Tm,Unnamed: 5,Opp,Unnamed: 7,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-,emotion
+0,0,2010-02-16,Back in the H. Ready for practice tonite.,1,1,2,2.0,23,HOU,,UTA,L (-9),0,17,2,3,0.667,0,0,,1,2,0.5,0,1,1,1,1,1,2,3,5,2.8,4.0,0
+1,1,2010-02-21,Morning people!,4,4,5,5.0,23,HOU,@,NOH,L (-8),0,12,1,4,0.25,0,2,0.0,0,0,,0,1,1,0,0,1,4,1,2,-3.8,-6.0,1
+2,2,2010-02-21,"My girl cookin sum smothered chicken, and I got Browning sauce instead of soy sauce for the gravy. Its def going to be my fault if its nasty",4,4,5,5.0,23,HOU,@,NOH,L (-8),0,12,1,4,0.25,0,2,0.0,0,0,,0,1,1,0,0,1,4,1,2,-3.8,-6.0,0
+3,3,2010-02-21,The gravy def tastes GREAT!!!,4,4,5,5.0,23,HOU,@,NOH,L (-8),0,12,1,4,0.25,0,2,0.0,0,0,,0,1,1,0,0,1,4,1,2,-3.8,-6.0,1
+4,4,2010-02-24,"Had a great time at the concert last night with @haisalem. Got a haircut today after practice, back to the low taper.",5,5,6,6.0,23,HOU,,ORL,L (-18),0,8,0,0,,0,0,,0,0,,0,2,2,1,0,1,2,1,0,-0.4,-5.0,1
+5,5,2010-02-26,"Just finished reading to a great group of kids at the Buffalo Soldier museum, nice spot yall should def check it out.",6,6,7,7.0,23,HOU,,SAS,W (+5),0,5,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-10.0,1
+6,6,2010-03-05,Made it to Dallas. About to get a workout in then probably hit up the mall.,10,10,11,11.0,23,SAC,@,DAL,L (-8),0,8,1,2,0.5,0,0,,1,1,1.0,0,1,1,1,0,0,0,0,3,3.0,5.0,1
+7,7,2010-03-05,"That workout wore me out, i gotta get a nap b4 the mall. The way I sleep, I may not make it to the mall. LOL",10,10,11,11.0,23,SAC,@,DAL,L (-8),0,8,1,2,0.5,0,0,,1,1,1.0,0,1,1,1,0,0,0,0,3,3.0,5.0,1
+8,8,2010-03-05,"First win as a King!!! I'll miss my old teammates, these new guys seem co though.",10,10,11,11.0,23,SAC,@,DAL,L (-8),0,8,1,2,0.5,0,0,,1,1,1.0,0,1,1,1,0,0,0,0,3,3.0,5.0,-1
+9,9,2010-03-09,Portland!!,11,12,13,12.0,23,SAC,@,POR,L (-7),0,7,1,3,0.333,0,1,0.0,2,2,1.0,1,0,1,0,0,0,1,0,4,2.0,-9.0,0
+10,10,2010-03-19,Back in San Antonio. About to hit the sack.,15,18,19,16.0,23,SAS,,GSW,W (+31),0,20,3,8,0.375,1,2,0.5,2,3,0.667,0,0,0,1,1,0,0,0,9,5.9,10.0,0
+11,11,2010-04-06,"Headed to the airport, Sacramento is the next destination.",21,28,29,22.0,23,SAS,@,SAC,W (+9),1,27,5,8,0.625,1,2,0.5,4,4,1.0,0,3,3,4,0,0,1,4,15,12.5,9.0,0
+12,12,2010-04-07,"Dang Im overwhelmed, naptime.",22,29,30,23.0,23,SAS,@,PHO,L (-11),1,23,4,9,0.444,1,3,0.333,2,4,0.5,0,2,2,0,1,0,3,3,11,2.9,6.0,1
+13,13,2010-04-07,"Who plays ""words"" on the iPhone? lets get a game started. gtemp",22,29,30,23.0,23,SAS,@,PHO,L (-11),1,23,4,9,0.444,1,3,0.333,2,4,0.5,0,2,2,0,1,0,3,3,11,2.9,6.0,0
+14,14,2010-04-09,Tough loss tonite. Gotta get sum rest and bounce back at home on Friday.,23,30,31,24.0,23,SAS,,MEM,L (-8),1,26,3,7,0.429,2,4,0.5,0,0,,1,3,4,2,2,0,2,1,8,6.9,10.0,-1
+15,15,2010-04-09,Y bring up sumthing if its only going to start an arguement?,23,30,31,24.0,23,SAS,,MEM,L (-8),1,26,3,7,0.429,2,4,0.5,0,0,,1,3,4,2,2,0,2,1,8,6.9,10.0,0
+16,16,2010-04-10,"Got some shots up, now im back in the hotel. I cant wait to move into my new apt, whenever that will be. lol",24,31,32,25.0,23,SAS,@,DEN,W (+19),1,20,3,5,0.6,3,4,0.75,2,4,0.5,2,2,4,0,2,0,1,5,11,8.9,13.0,0
+17,17,2010-04-10,They def were good times. Great rivalry RT @kham03: @GTemp2 @AKimble5 DreamTeam vs. Sports Academy #goodtimes,24,31,32,25.0,23,SAS,@,DEN,W (+19),1,20,3,5,0.6,3,4,0.75,2,4,0.5,2,2,4,0,2,0,1,5,11,8.9,13.0,1
+18,18,2010-04-10,Whats good @J_Wall10 how Reno treating yall. Prolly TRIFFEEE!!!!! lol,24,31,32,25.0,23,SAS,@,DEN,W (+19),1,20,3,5,0.6,3,4,0.75,2,4,0.5,2,2,4,0,2,0,1,5,11,8.9,13.0,1
+19,19,2010-04-10,"Already told him on the phone, but Happy Bday to my boi @AKimble5.  That boy 24 today.",24,31,32,25.0,23,SAS,@,DEN,W (+19),1,20,3,5,0.6,3,4,0.75,2,4,0.5,2,2,4,0,2,0,1,5,11,8.9,13.0,0
+20,20,2010-04-10,Just got the keys to my new apt. Feels good. Got moms and my girl @hAiSalem comin to help get it right.,24,31,32,25.0,23,SAS,@,DEN,W (+19),1,20,3,5,0.6,3,4,0.75,2,4,0.5,2,2,4,0,2,0,1,5,11,8.9,13.0,1
+21,21,2010-04-12,Back in SA. Holla at yall tomorrow!!!,25,32,33,26.0,23,SAS,,MIN,W (+22),0,12,2,3,0.667,0,0,,1,2,0.5,0,1,1,1,1,0,0,1,5,4.9,-2.0,0
+22,22,2010-04-12,"Bounced back tonite, total team effort. Headed to th airport.",25,32,33,26.0,23,SAS,,MIN,W (+22),0,12,2,3,0.667,0,0,,1,2,0.5,0,1,1,1,1,0,0,1,5,4.9,-2.0,0
+23,23,2010-04-12,I love these planes!!!,25,32,33,26.0,23,SAS,,MIN,W (+22),0,12,2,3,0.667,0,0,,1,2,0.5,0,1,1,1,1,0,0,1,5,4.9,-2.0,1
+24,24,2010-04-12,Furniture shopping sucks!!! Glad I have my mom and my girl @hAiSalem here helping.,25,32,33,26.0,23,SAS,,MIN,W (+22),0,12,2,3,0.667,0,0,,1,2,0.5,0,1,1,1,1,0,0,1,5,4.9,-2.0,-1
+25,25,2010-04-27,Back in Dallas. About to hit up Pei-Wei with Leek.,28,38,5,2.0,23,SAS,@,DAL,L (-22),0,11,0,1,0.0,0,1,0.0,1,1,1.0,0,2,2,1,1,0,1,1,1,1.2,-2.0,0
+26,26,2010-11-01,Thats true cuz. RT @Hboogie504: Cowboys sure do suck...,34,45,3,2.0,24,SAS,@,LAC,W (+9),0,5,0,3,0.0,0,1,0.0,0,0,,1,0,1,1,0,1,0,1,0,-0.4,-2.0,0
+27,27,2010-11-01,About to eat at Firehouse Subs before we head to LA.,34,45,3,2.0,24,SAS,@,LAC,W (+9),0,5,0,3,0.0,0,1,0.0,0,0,,1,0,1,1,0,1,0,1,0,-0.4,-2.0,0
+28,28,2010-11-01,Wheels down in LA!,34,45,3,2.0,24,SAS,@,LAC,W (+9),0,5,0,3,0.0,0,1,0.0,0,0,,1,0,1,1,0,1,0,1,0,-0.4,-2.0,-1
+29,29,2010-11-03,I'm liking these glasses more and more. I look more studious.  http://plixi.com/p/54592845,35,46,4,3.0,24,SAS,@,PHO,W (+2),0,14,1,2,0.5,0,0,,0,2,0.0,0,1,1,1,1,0,1,1,2,0.8,-12.0,1
+30,30,2010-11-03,Wheels down in PHX,35,46,4,3.0,24,SAS,@,PHO,W (+2),0,14,1,2,0.5,0,0,,0,2,0.0,0,1,1,1,1,0,1,1,2,0.8,-12.0,-1
+31,31,2010-11-03,#inhighschool me @MrBridgeH2O @AKimble5 @Anwar500 and @iambigbaby11 used to crush teams. It wasn't even fair.,35,46,4,3.0,24,SAS,@,PHO,W (+2),0,14,1,2,0.5,0,0,,0,2,0.0,0,1,1,1,1,0,1,1,2,0.8,-12.0,0
+32,32,2010-11-03,I'm kikkin!!!,35,46,4,3.0,24,SAS,@,PHO,W (+2),0,14,1,2,0.5,0,0,,0,2,0.0,0,1,1,1,1,0,1,1,2,0.8,-12.0,0
+33,33,2010-11-03,Thanks RT @ddcamille: Ok so here goes my #randomtweet of the day @GTemp2 has the best avatar everrrr lol,35,46,4,3.0,24,SAS,@,PHO,W (+2),0,14,1,2,0.5,0,0,,0,2,0.0,0,1,1,1,1,0,1,1,2,0.8,-12.0,1
+34,34,2010-11-03,Wheels up!!!,35,46,4,3.0,24,SAS,@,PHO,W (+2),0,14,1,2,0.5,0,0,,0,2,0.0,0,1,1,1,1,0,1,1,2,0.8,-12.0,0
+35,35,2010-11-03,My bro and my niece. Knocked out!!  http://plixi.com/p/54482984,35,46,4,3.0,24,SAS,@,PHO,W (+2),0,14,1,2,0.5,0,0,,0,2,0.0,0,1,1,1,1,0,1,1,2,0.8,-12.0,-1
+36,36,2010-11-03,Great road win tonight!!!!,35,46,4,3.0,24,SAS,@,PHO,W (+2),0,14,1,2,0.5,0,0,,0,2,0.0,0,1,1,1,1,0,1,1,2,0.8,-12.0,1
+37,37,2011-01-26,Thanks for all the love yall. Im real excited to be here in Milwaukee.,36,50,8,4.0,24,MIL,,ATL,W (+8),0,18,3,5,0.6,2,3,0.667,0,2,0.0,0,3,3,3,0,0,0,2,8,7.1,11.0,1
+38,38,2011-01-26,"I'm watching the news, the weather lady just said ""it's actually a little warm today, the HIGH will be 28 degrees"" since when was that warm?",36,50,8,4.0,24,MIL,,ATL,W (+8),0,18,3,5,0.6,2,3,0.667,0,2,0.0,0,3,3,3,0,0,0,2,8,7.1,11.0,-1
+39,39,2011-01-26,ABout to tear these wings up,36,50,8,4.0,24,MIL,,ATL,W (+8),0,18,3,5,0.6,2,3,0.667,0,2,0.0,0,3,3,3,0,0,0,2,8,7.1,11.0,0
+40,40,2011-01-26,"Im hot in my room, is it crazy to have the ac on 62 while its 21 degrees outside?",36,50,8,4.0,24,MIL,,ATL,W (+8),0,18,3,5,0.6,2,3,0.667,0,2,0.0,0,3,3,3,0,0,0,2,8,7.1,11.0,-1
+41,41,2011-01-26,Just ate a sub from Cousins for the first time. I was impressed.,36,50,8,4.0,24,MIL,,ATL,W (+8),0,18,3,5,0.6,2,3,0.667,0,2,0.0,0,3,3,3,0,0,0,2,8,7.1,11.0,0
+42,42,2011-01-26,#nowwatching CSI New York. Never gets old,36,50,8,4.0,24,MIL,,ATL,W (+8),0,18,3,5,0.6,2,3,0.667,0,2,0.0,0,3,3,3,0,0,0,2,8,7.1,11.0,-1
+43,43,2011-01-26,I need to decide what im going to eat for breakfast right now.,36,50,8,4.0,24,MIL,,ATL,W (+8),0,18,3,5,0.6,2,3,0.667,0,2,0.0,0,3,3,3,0,0,0,2,8,7.1,11.0,0
+44,44,2011-01-26,Hopefully this Joe can put me to sleep.,36,50,8,4.0,24,MIL,,ATL,W (+8),0,18,3,5,0.6,2,3,0.667,0,2,0.0,0,3,3,3,0,0,0,2,8,7.1,11.0,0
+45,45,2011-01-26,time to hit the sack,36,50,8,4.0,24,MIL,,ATL,W (+8),0,18,3,5,0.6,2,3,0.667,0,2,0.0,0,3,3,3,0,0,0,2,8,7.1,11.0,0
+46,46,2011-01-29,"Just killed this subway sandwich. About to watch a little film, then take that gameday nap.",38,52,10,6.0,24,MIL,,NJN,W (+10),0,26,1,6,0.167,0,2,0.0,0,0,,0,1,1,0,0,0,1,4,2,-4.1,8.0,0
+47,47,2011-01-31,We missed @cdouglasroberts but got a good win tonight. 3 game winning streak. Let's make it 4 against the clips.,39,53,11,7.0,24,MIL,@,LAC,L (-7),0,5,1,2,0.5,1,2,0.5,0,0,,0,0,0,0,0,0,0,0,3,2.0,-15.0,0
+48,48,2011-01-31,Glad to have @BLKICE3 back on the court tonight.,39,53,11,7.0,24,MIL,@,LAC,L (-7),0,5,1,2,0.5,1,2,0.5,0,0,,0,0,0,0,0,0,0,0,3,2.0,-15.0,0
+49,49,2011-01-31,"And @LarryLuv_8 we can't hear ya music, lol.",39,53,11,7.0,24,MIL,@,LAC,L (-7),0,5,1,2,0.5,1,2,0.5,0,0,,0,0,0,0,0,0,0,0,3,2.0,-15.0,-1
+50,50,2011-01-31,Ready to head to LA. This is gonna be a lonnngggg flight!!!! Def sleeping for at least 2 hrs.,39,53,11,7.0,24,MIL,@,LAC,L (-7),0,5,1,2,0.5,1,2,0.5,0,0,,0,0,0,0,0,0,0,0,3,2.0,-15.0,-1
+51,51,2011-01-31,What's poppin tonight Milwaukee??,39,53,11,7.0,24,MIL,@,LAC,L (-7),0,5,1,2,0.5,1,2,0.5,0,0,,0,0,0,0,0,0,0,0,3,2.0,-15.0,1
+52,52,2011-02-02,"Just finished a good workout. I'm starving though, @LarryLuv_8 needs to hurry up so we can go eat.",40,54,12,8.0,24,MIL,@,PHO,L (-15),0,10,1,4,0.25,0,2,0.0,0,2,0.0,0,0,0,0,1,0,1,1,2,-1.6,-5.0,1
+53,53,2011-02-02,People underestimate how good #thecheesecakefactory is. Buffalo Blasts #ondeck,40,54,12,8.0,24,MIL,@,PHO,L (-15),0,10,1,4,0.25,0,2,0.0,0,2,0.0,0,0,0,0,1,0,1,1,2,-1.6,-5.0,-1
+54,54,2011-02-02,"Finished eating, back at the hotel. NAPTIME!!!!!",40,54,12,8.0,24,MIL,@,PHO,L (-15),0,10,1,4,0.25,0,2,0.0,0,2,0.0,0,0,0,0,1,0,1,1,2,-1.6,-5.0,0
+55,55,2011-02-03,LOL thats real RT @obrown15: Gas so high nigga gotta get ur address b4 he holla. #mapquest,41,55,13,9.0,24,MIL,@,GSW,L (-6),0,7,0,1,0.0,0,0,,0,0,,0,2,2,1,0,0,0,0,0,0.6,2.0,-1
+56,56,2011-02-03,#nowwatching My Wife and Kids,41,55,13,9.0,24,MIL,@,GSW,L (-6),0,7,0,1,0.0,0,0,,0,0,,0,2,2,1,0,0,0,0,0,0.6,2.0,0
+57,57,2011-02-03,"Morning people. It's way too windy out here in Phoenix, I'm loving this sun though.",41,55,13,9.0,24,MIL,@,GSW,L (-6),0,7,0,1,0.0,0,0,,0,0,,0,2,2,1,0,0,0,0,0,0.6,2.0,0
+58,58,2011-02-03,I just took the longest nap imaginable. #rested,41,55,13,9.0,24,MIL,@,GSW,L (-6),0,7,0,1,0.0,0,0,,0,0,,0,2,2,1,0,0,0,0,0,0.6,2.0,0
+59,59,2011-02-08,Denzel Washington only has 1 Academy Award. That's just wrong.,43,57,15,11.0,24,MIL,,TOR,W (+18),0,6,1,2,0.5,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,0.0,-1
+60,60,2011-02-08,This lemon theraflu doesn't taste that bad.,43,57,15,11.0,24,MIL,,TOR,W (+18),0,6,1,2,0.5,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,0.0,-1
+61,61,2011-02-08,Why does the best actor ever only have 1 academy award for best lead actor????????? I wonder if y'all know who im talking about,43,57,15,11.0,24,MIL,,TOR,W (+18),0,6,1,2,0.5,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,0.0,1
+62,62,2011-02-08,#nw Forrest Gump,43,57,15,11.0,24,MIL,,TOR,W (+18),0,6,1,2,0.5,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,0.0,0
+63,63,2011-02-08,"Yes he does have 2, but I meant for a leading role. John Q, Man on Fire, Philedelphia, Bone Collector, Malcolm X. Just to name a few...",43,57,15,11.0,24,MIL,,TOR,W (+18),0,6,1,2,0.5,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,0.0,0
+64,64,2011-02-08,"Had a great time at Homestead Highschool w/ @cdouglasroberts and some other players, teaching some basketball skills to special needs kids.",43,57,15,11.0,24,MIL,,TOR,W (+18),0,6,1,2,0.5,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,0.0,0
+65,65,2011-02-08,Had a great time. RT @Bucks: Ersan and @GTemp2 chat with some youngsters during tonight's Special Olympic Clinic. http://picplz.com/n5vW,43,57,15,11.0,24,MIL,,TOR,W (+18),0,6,1,2,0.5,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,0.0,1
+66,66,2011-02-14,#nw Hustle and Flow,44,61,19,12.0,24,MIL,,LAC,W (+24),0,5,0,1,0.0,0,1,0.0,0,0,,0,0,0,2,0,0,0,1,0,0.3,8.0,0
+67,67,2011-02-14,"Just finished a good workout, headed to find something to grub on.",44,61,19,12.0,24,MIL,,LAC,W (+24),0,5,0,1,0.0,0,1,0.0,0,0,,0,0,0,2,0,0,0,1,0,0.3,8.0,1
+68,68,2011-03-09,Time to try and count some sheep. Until tomorrow people. #imout,45,63,21,13.0,24,CHA,,CHI,L (-17),0,6,0,1,0.0,0,1,0.0,0,0,,0,1,1,1,0,1,0,0,0,1.0,0.0,0
+69,69,2011-03-28,About to head to the gym to get treatment. What y'all up to today people?,47,72,30,15.0,24,CHA,,MIL,W (+1),0,10,1,3,0.333,1,3,0.333,0,0,,0,3,3,2,0,0,0,0,3,3.6,10.0,1
+70,70,2011-03-28,Just saw Limitless and really enjoyed it. Great movie.,47,72,30,15.0,24,CHA,,MIL,W (+1),0,10,1,3,0.333,1,3,0.333,0,0,,0,3,3,2,0,0,0,0,3,3.6,10.0,1
+71,71,2011-03-28,Officially a Bobcat for the rest of the season. Too blessed to be stressed!,47,72,30,15.0,24,CHA,,MIL,W (+1),0,10,1,3,0.333,1,3,0.333,0,0,,0,3,3,2,0,0,0,0,3,3.6,10.0,-1
+72,72,2011-03-30,Good Morning people!,48,73,31,16.0,24,CHA,,CLE,W (+1),0,9,0,2,0.0,0,0,,0,0,,0,1,1,1,2,0,2,3,0,-1.6,-3.0,1
+73,73,2011-03-30,#oomf is popular as hell. Lol,48,73,31,16.0,24,CHA,,CLE,W (+1),0,9,0,2,0.0,0,0,,0,0,,0,1,1,1,2,0,2,3,0,-1.6,-3.0,0
+74,74,2011-03-30,Time to count some sheep. I'm out.,48,73,31,16.0,24,CHA,,CLE,W (+1),0,9,0,2,0.0,0,0,,0,0,,0,1,1,1,2,0,2,3,0,-1.6,-3.0,0
+75,75,2011-03-30,"Just got on LiveProfile. If u have a blackberry, IPhone, Droid or any other smart phone u should get it. It's an instant messenger",48,73,31,16.0,24,CHA,,CLE,W (+1),0,9,0,2,0.0,0,0,,0,0,,0,1,1,1,2,0,2,3,0,-1.6,-3.0,0
+76,76,2011-04-01,Wheels down in Orlando!,49,74,32,17.0,24,CHA,@,ORL,L (-12),0,10,0,4,0.0,0,3,0.0,0,0,,0,1,1,1,0,0,2,2,0,-4.6,-7.0,-1
+77,77,2011-04-03,RT @George_Hill3: P.U.S.H- PRAY UNTIL SOMETHING HAPPEN.,50,75,33,18.0,24,CHA,,WAS,L (-6),0,9,0,3,0.0,0,1,0.0,0,0,,0,2,2,6,3,0,2,1,0,3.3,4.0,0
+78,78,2011-04-05,"S/O to @sydthewhizkid for that game winning assist. People tend to  forget about that, that def wasn't an easy pass. Coming from another pg",51,76,34,19.0,24,CHA,@,CLE,L (-10),0,6,2,5,0.4,1,4,0.25,1,2,0.5,0,0,0,0,0,0,3,2,6,-0.9,-9.0,0
+79,79,2011-04-05,Good morning world. Thanking God for allowing me to see another day.,51,76,34,19.0,24,CHA,@,CLE,L (-10),0,6,2,5,0.4,1,4,0.25,1,2,0.5,0,0,0,0,0,0,3,2,6,-0.9,-9.0,1
+80,80,2011-04-05,On the way to practice just got hit by a blue minivan.  http://plixi.com/p/89482826,51,76,34,19.0,24,CHA,@,CLE,L (-10),0,6,2,5,0.4,1,4,0.25,1,2,0.5,0,0,0,0,0,0,3,2,6,-0.9,-9.0,0
+81,81,2011-04-05,Just a little fender bender people.,51,76,34,19.0,24,CHA,@,CLE,L (-10),0,6,2,5,0.4,1,4,0.25,1,2,0.5,0,0,0,0,0,0,3,2,6,-0.9,-9.0,0
+82,82,2011-04-05,Wheels down in Cleveland. It's so dreary out here.,51,76,34,19.0,24,CHA,@,CLE,L (-10),0,6,2,5,0.4,1,4,0.25,1,2,0.5,0,0,0,0,0,0,3,2,6,-0.9,-9.0,-1
+83,83,2011-04-05,Now who do yall have for tonights game?,51,76,34,19.0,24,CHA,@,CLE,L (-10),0,6,2,5,0.4,1,4,0.25,1,2,0.5,0,0,0,0,0,0,3,2,6,-0.9,-9.0,0
+84,84,2011-04-05,Time to hit the sack. Gotta bounce back.,51,76,34,19.0,24,CHA,@,CLE,L (-10),0,6,2,5,0.4,1,4,0.25,1,2,0.5,0,0,0,0,0,0,3,2,6,-0.9,-9.0,0
+85,85,2011-04-05,I got Uconn tonight. Just have a feeling Kemba is going to go off.,51,76,34,19.0,24,CHA,@,CLE,L (-10),0,6,2,5,0.4,1,4,0.25,1,2,0.5,0,0,0,0,0,0,3,2,6,-0.9,-9.0,-1
+86,86,2011-04-05,Lamb 6'5 but he looks like he may have a 7ft wingspan.,51,76,34,19.0,24,CHA,@,CLE,L (-10),0,6,2,5,0.4,1,4,0.25,1,2,0.5,0,0,0,0,0,0,3,2,6,-0.9,-9.0,0
+87,87,2011-04-05,Congrats to UCONN. They weren't even ranked in the top 25 to start the season.  Knew they were tough after watching them in Maui.,51,76,34,19.0,24,CHA,@,CLE,L (-10),0,6,2,5,0.4,1,4,0.25,1,2,0.5,0,0,0,0,0,0,3,2,6,-0.9,-9.0,0
+88,88,2011-04-05,Tough SHOT!!! Great defensive game out there.,51,76,34,19.0,24,CHA,@,CLE,L (-10),0,6,2,5,0.4,1,4,0.25,1,2,0.5,0,0,0,0,0,0,3,2,6,-0.9,-9.0,1
+89,89,2011-04-05,"#Truth RT @RDupree12: ugly half of basketball....however, this type of game favors butler",51,76,34,19.0,24,CHA,@,CLE,L (-10),0,6,2,5,0.4,1,4,0.25,1,2,0.5,0,0,0,0,0,0,3,2,6,-0.9,-9.0,-1
+90,90,2011-04-05,That NCAA commercial about student-athletes getting their degrees is a great one.,51,76,34,19.0,24,CHA,@,CLE,L (-10),0,6,2,5,0.4,1,4,0.25,1,2,0.5,0,0,0,0,0,0,3,2,6,-0.9,-9.0,1
+91,91,2011-04-05,I love seeing a WOMEN that can hoop RT @SkyDigg4: Final Four cat walk http://t.co/YxLwJDM,51,76,34,19.0,24,CHA,@,CLE,L (-10),0,6,2,5,0.4,1,4,0.25,1,2,0.5,0,0,0,0,0,0,3,2,6,-0.9,-9.0,0
+92,92,2011-04-06,S/O to the Ladycats. Go to bobcats.com and vote for the ladycats as the #1 dance team in the NBA! Go now before 2!!,52,77,35,20.0,24,CHA,,ORL,L (-9),0,15,1,2,0.5,0,1,0.0,0,0,,0,3,3,4,0,1,3,0,2,2.4,0.0,0
+93,93,2011-04-06,On the bus. Game time!!!,52,77,35,20.0,24,CHA,,ORL,L (-9),0,15,1,2,0.5,0,1,0.0,0,0,,0,3,3,4,0,1,3,0,2,2.4,0.0,0
+94,94,2011-04-06,Gnight world.,52,77,35,20.0,24,CHA,,ORL,L (-9),0,15,1,2,0.5,0,1,0.0,0,0,,0,3,3,4,0,1,3,0,2,2.4,0.0,0
+95,95,2011-04-08,#np Words - Bobby V,53,78,36,21.0,24,CHA,@,MIA,L (-9),0,19,4,9,0.444,3,6,0.5,6,9,0.667,0,1,1,3,2,0,1,0,17,14.5,6.0,0
+96,96,2011-04-08,Just killed this Waffle House. There's nothing like an All-Star from here!!! FULL,53,78,36,21.0,24,CHA,@,MIA,L (-9),0,19,4,9,0.444,3,6,0.5,6,9,0.667,0,1,1,3,2,0,1,0,17,14.5,6.0,-1
+97,97,2011-04-08,Time to call it a night. Goodnight people.,53,78,36,21.0,24,CHA,@,MIA,L (-9),0,19,4,9,0.444,3,6,0.5,6,9,0.667,0,1,1,3,2,0,1,0,17,14.5,6.0,1
+98,98,2011-04-08,MIA!!,53,78,36,21.0,24,CHA,@,MIA,L (-9),0,19,4,9,0.444,3,6,0.5,6,9,0.667,0,1,1,3,2,0,1,0,17,14.5,6.0,0
+99,99,2011-04-08,The weather here is crazy nice. Damn,53,78,36,21.0,24,CHA,@,MIA,L (-9),0,19,4,9,0.444,3,6,0.5,6,9,0.667,0,1,1,3,2,0,1,0,17,14.5,6.0,1
+100,100,2011-04-10,Wheels down in CLT. Preciate ya @dj_white3,54,79,37,22.0,24,CHA,,DET,L (-11),0,12,0,4,0.0,0,3,0.0,0,0,,0,2,2,0,1,1,3,3,0,-4.7,-18.0,0
+101,101,2011-04-11,Shootaround #ondeck. I went to sleep at 7:00 pm last night and didn't wake up until this morning.,55,80,38,23.0,24,CHA,@,NJN,W (+2),0,14,3,4,0.75,1,2,0.5,0,0,,0,0,0,2,1,1,1,1,7,7.1,-7.0,-1
+102,102,2011-04-13,Long I hope,56,81,39,24.0,24,CHA,,ATL,W (+11),0,14,1,4,0.25,1,1,1.0,0,0,,0,1,1,4,0,0,2,2,3,0.9,9.0,1
+103,103,2011-04-13,Back in the Queen City.,56,81,39,24.0,24,CHA,,ATL,W (+11),0,14,1,4,0.25,1,1,1.0,0,0,,0,1,1,4,0,0,2,2,3,0.9,9.0,0
+104,104,2011-04-13,Proud to be apart of the COLDEST line to come thru Nu Psi 3 years ago today. Love my LB's. ALPHA for life. ICE COLD!!!,56,81,39,24.0,24,CHA,,ATL,W (+11),0,14,1,4,0.25,1,1,1.0,0,0,,0,1,1,4,0,0,2,2,3,0.9,9.0,0
+105,105,2011-04-13,Pause my last tweet people,56,81,39,24.0,24,CHA,,ATL,W (+11),0,14,1,4,0.25,1,1,1.0,0,0,,0,1,1,4,0,0,2,2,3,0.9,9.0,0
+106,106,2011-04-13,"Yessssir RT @B_McGee4: Three years and numerous nights I cannot remember later, Checkmate.",56,81,39,24.0,24,CHA,,ATL,W (+11),0,14,1,4,0.25,1,1,1.0,0,0,,0,1,1,4,0,0,2,2,3,0.9,9.0,0
+107,107,2011-04-13,LMAO. u right I'm trippin.,56,81,39,24.0,24,CHA,,ATL,W (+11),0,14,1,4,0.25,1,1,1.0,0,0,,0,1,1,4,0,0,2,2,3,0.9,9.0,1
+108,108,2011-04-13,Gnight people. Time to count some sheep.,56,81,39,24.0,24,CHA,,ATL,W (+11),0,14,1,4,0.25,1,1,1.0,0,0,,0,1,1,4,0,0,2,2,3,0.9,9.0,0
+109,109,2012-12-26,Merry Christmas to everybody out here on the east coast. 17 more mins for my people back home.,57,82,1,1.0,26,WAS,,CLE,L (-3),0,19,1,3,0.333,0,2,0.0,0,0,,1,2,3,2,1,0,1,4,2,1.4,-10.0,0
+110,110,2012-12-26,Spending my christmas morning catching up on my Jack Bauer episodes. 24 #ondeck,57,82,1,1.0,26,WAS,,CLE,L (-3),0,19,1,3,0.333,0,2,0.0,0,0,,1,2,3,2,1,0,1,4,2,1.4,-10.0,-1
+111,111,2012-12-26,Merry Christmas to my BR fam and everybody else in the CST (central standard timezone) lol,57,82,1,1.0,26,WAS,,CLE,L (-3),0,19,1,3,0.333,0,2,0.0,0,0,,1,2,3,2,1,0,1,4,2,1.4,-10.0,-1
+112,112,2012-12-26,“@GNEAUX: 2012 was a blur!” TRUTH,57,82,1,1.0,26,WAS,,CLE,L (-3),0,19,1,3,0.333,0,2,0.0,0,0,,1,2,3,2,1,0,1,4,2,1.4,-10.0,1
+113,113,2012-12-28,QUARTERS of BR opens on Friday the 28th from 11am to 2am. On the corner of Sherwood and Coursey. Check it out.. You won't want to leave.,58,83,2,2.0,26,WAS,,ORL,W (+8),0,35,6,8,0.75,1,3,0.333,0,0,,2,4,6,6,2,0,1,2,13,16.8,22.0,-1
+114,114,2012-12-28,"Check out this new spot for Bowling, Laser Tag, Arcade, Restaraunt, and BAR!!!! Opens on FRIDAY!!! Be there. http://t.co/lPgyayye",58,83,2,2.0,26,WAS,,ORL,W (+8),0,35,6,8,0.75,1,3,0.333,0,0,,2,4,6,6,2,0,1,2,13,16.8,22.0,0
+115,115,2012-12-28,What's everybody up to?,58,83,2,2.0,26,WAS,,ORL,W (+8),0,35,6,8,0.75,1,3,0.333,0,0,,2,4,6,6,2,0,1,2,13,16.8,22.0,0
+116,116,2012-12-29,Everybody is talking about Django Unchained. I def gotta go see it!!!!!!!,59,84,3,3.0,26,WAS,@,CHI,L (-10),1,41,3,11,0.273,0,2,0.0,2,2,1.0,3,6,9,5,1,1,4,3,8,5.4,-9.0,-1
+117,117,2012-12-29,TIME CHANGE: Quarters will now be opening from 5pm-2am today!!!! On the corner of Sherwood and Coursey.,59,84,3,3.0,26,WAS,@,CHI,L (-10),1,41,3,11,0.273,0,2,0.0,2,2,1.0,3,6,9,5,1,1,4,3,8,5.4,-9.0,1
+118,118,2013-01-01,Prolly not!!!! 😂😂😂😂,60,85,4,4.0,26,WAS,,DAL,L (-9),1,23,1,6,0.167,1,4,0.25,3,4,0.75,1,2,3,3,1,1,1,4,6,4.3,6.0,-1
+119,119,2013-01-01,"I find smoking very unattractive. Whether its (cigarettes, weed, or hookah) it easily drops a female out of contention. #honestytweet",60,85,4,4.0,26,WAS,,DAL,L (-9),1,23,1,6,0.167,1,4,0.25,3,4,0.75,1,2,3,3,1,1,1,4,6,4.3,6.0,-1
+120,120,2013-01-01,“@RyT5: Just landed back in belgium .. Back to Work” do work my boy!!!,60,85,4,4.0,26,WAS,,DAL,L (-9),1,23,1,6,0.167,1,4,0.25,3,4,0.75,1,2,3,3,1,1,1,4,6,4.3,6.0,0
+121,121,2013-01-01,😏😏😏,60,85,4,4.0,26,WAS,,DAL,L (-9),1,23,1,6,0.167,1,4,0.25,3,4,0.75,1,2,3,3,1,1,1,4,6,4.3,6.0,0
+122,122,2013-01-01,“@LMAOTWlTPICS: http://t.co/3Z5UDzsx” c'mon man. Y'all gotta chill out LMAO smh,60,85,4,4.0,26,WAS,,DAL,L (-9),1,23,1,6,0.167,1,4,0.25,3,4,0.75,1,2,3,3,1,1,1,4,6,4.3,6.0,0
+123,123,2013-01-01,Killing this potbelly!!!!! These sandwiches and milkshakes are so good.,60,85,4,4.0,26,WAS,,DAL,L (-9),1,23,1,6,0.167,1,4,0.25,3,4,0.75,1,2,3,3,1,1,1,4,6,4.3,6.0,1
+124,124,2013-01-01,Wow!!!!,60,85,4,4.0,26,WAS,,DAL,L (-9),1,23,1,6,0.167,1,4,0.25,3,4,0.75,1,2,3,3,1,1,1,4,6,4.3,6.0,1
+125,125,2013-01-01,Someone on my timeline so thirsty!! Lmao,60,85,4,4.0,26,WAS,,DAL,L (-9),1,23,1,6,0.167,1,4,0.25,3,4,0.75,1,2,3,3,1,1,1,4,6,4.3,6.0,-1
+126,126,2013-01-01,Spending my new year #chillin in this apt. #homebody,60,85,4,4.0,26,WAS,,DAL,L (-9),1,23,1,6,0.167,1,4,0.25,3,4,0.75,1,2,3,3,1,1,1,4,6,4.3,6.0,0
+127,127,2013-01-01,Bout to knock out. 😴😴😴,60,85,4,4.0,26,WAS,,DAL,L (-9),1,23,1,6,0.167,1,4,0.25,3,4,0.75,1,2,3,3,1,1,1,4,6,4.3,6.0,0
+128,128,2013-01-01,Happy bday to the homie @AndiOnTheReal Yall wish her happy bday.,60,85,4,4.0,26,WAS,,DAL,L (-9),1,23,1,6,0.167,1,4,0.25,3,4,0.75,1,2,3,3,1,1,1,4,6,4.3,6.0,1
+129,129,2013-01-01,“@RealSkipBayless: Cowboys only hope: Romo always best running hurry-up when all seems lost (and pressure is off).” Very true,60,85,4,4.0,26,WAS,,DAL,L (-9),1,23,1,6,0.167,1,4,0.25,3,4,0.75,1,2,3,3,1,1,1,4,6,4.3,6.0,1
+130,130,2013-01-02,“@35_Fitz: That play callin was terrible by LSU but we'll take it” SMDH,61,86,5,5.0,26,WAS,@,IND,L (-8),1,22,0,3,0.0,0,2,0.0,0,0,,0,1,1,7,0,2,2,6,0,0.1,-10.0,0
+131,131,2013-01-02,Happy birthday to one of my bros for life. @iambigbaby11 have a good one bro and be safe. Much love!!!,61,86,5,5.0,26,WAS,@,IND,L (-8),1,22,0,3,0.0,0,2,0.0,0,0,,0,1,1,7,0,2,2,6,0,0.1,-10.0,1
+132,132,2013-01-02,Smh I just had an inappropriate thought. Let me take myself to sleep. 😴😴😴😴,61,86,5,5.0,26,WAS,@,IND,L (-8),1,22,0,3,0.0,0,2,0.0,0,0,,0,1,1,7,0,2,2,6,0,0.1,-10.0,0
+133,133,2013-01-02,Happy New Year people!!!! 2013 #ondeck,61,86,5,5.0,26,WAS,@,IND,L (-8),1,22,0,3,0.0,0,2,0.0,0,0,,0,1,1,7,0,2,2,6,0,0.1,-10.0,1
+134,134,2013-01-02,3 passes in a row???? Wow. 😕😕😕,61,86,5,5.0,26,WAS,@,IND,L (-8),1,22,0,3,0.0,0,2,0.0,0,0,,0,1,1,7,0,2,2,6,0,0.1,-10.0,1
+135,135,2013-01-02,Pregame meal. #shoutout to awr1ght34 for putting me on. Good and healthy. http://t.co/mAJY4ebU,61,86,5,5.0,26,WAS,@,IND,L (-8),1,22,0,3,0.0,0,2,0.0,0,0,,0,1,1,7,0,2,2,6,0,0.1,-10.0,1
+136,136,2013-01-06,Cold tub #ondeck,63,88,7,7.0,26,WAS,@,MIA,L (-28),1,32,0,7,0.0,0,3,0.0,0,0,,1,2,3,7,1,0,3,2,0,-1.5,-18.0,0
+137,137,2013-01-06,Wheels down in MIA!!!!!,63,88,7,7.0,26,WAS,@,MIA,L (-28),1,32,0,7,0.0,0,3,0.0,0,0,,1,2,3,7,1,0,3,2,0,-1.5,-18.0,-1
+138,138,2013-01-06,You know your in MIA when you want the cab driver to turn the AC on in early Jan.,63,88,7,7.0,26,WAS,@,MIA,L (-28),1,32,0,7,0.0,0,3,0.0,0,0,,1,2,3,7,1,0,3,2,0,-1.5,-18.0,0
+139,139,2013-01-06,Needed a haircut so bad!!! Feel like a new man!,63,88,7,7.0,26,WAS,@,MIA,L (-28),1,32,0,7,0.0,0,3,0.0,0,0,,1,2,3,7,1,0,3,2,0,-1.5,-18.0,-1
+140,140,2013-01-06,#hungry,63,88,7,7.0,26,WAS,@,MIA,L (-28),1,32,0,7,0.0,0,3,0.0,0,0,,1,2,3,7,1,0,3,2,0,-1.5,-18.0,0
+141,141,2013-01-07,“@sydthewhizkid: Game.day. Finally!” Go to work bighead,64,89,8,8.0,26,WAS,,OKC,W (+2),1,35,3,8,0.375,1,3,0.333,2,2,1.0,1,3,4,3,1,1,3,2,9,6.2,7.0,0
+142,142,2013-01-12,In chill mode!!!!,65,90,9,9.0,26,WAS,,ATL,W (+10),0,9,1,3,0.333,0,1,0.0,0,0,,0,0,0,0,0,1,0,1,2,0.6,-9.0,1
+143,143,2013-01-12,Kicks for the day!!! They say these things strengthen your feet. We'll see. http://t.co/DWpYp5uP,65,90,9,9.0,26,WAS,,ATL,W (+10),0,9,1,3,0.333,0,1,0.0,0,0,,0,0,0,0,0,1,0,1,2,0.6,-9.0,1
+144,144,2013-01-12,I'm apt hunting. Def not a fan of this but it has to be done! The DMV is so expensive SMH.,65,90,9,9.0,26,WAS,,ATL,W (+10),0,9,1,3,0.333,0,1,0.0,0,0,,0,0,0,0,0,1,0,1,2,0.6,-9.0,-1
+145,145,2013-01-12,Calling it a night. 💤💤,65,90,9,9.0,26,WAS,,ATL,W (+10),0,9,1,3,0.333,0,1,0.0,0,0,,0,0,0,0,0,1,0,1,2,0.6,-9.0,0
+146,146,2013-01-14,Smh @e_raine19,66,91,10,10.0,26,WAS,,ORL,W (+29),0,18,3,5,0.6,1,1,1.0,0,0,,0,4,4,3,0,0,0,2,7,7.2,20.0,0
+147,147,2013-01-14,SMDH she just don't know!!!,66,91,10,10.0,26,WAS,,ORL,W (+29),0,18,3,5,0.6,1,1,1.0,0,0,,0,4,4,3,0,0,0,2,7,7.2,20.0,0
+148,148,2013-01-14,Time to hit the bed!!!,66,91,10,10.0,26,WAS,,ORL,W (+29),0,18,3,5,0.6,1,1,1.0,0,0,,0,4,4,3,0,0,0,2,7,7.2,20.0,0
+149,149,2013-01-16,Not looking forward to this 5 hr flight!!! Wheels up to Sac-town.,67,92,11,11.0,26,WAS,@,SAC,L (-1),0,7,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,-3.0,0
+150,150,2013-01-16,Wheels down in Sac!!,67,92,11,11.0,26,WAS,@,SAC,L (-1),0,7,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,-3.0,-1
+151,151,2013-01-16,Forgot to mention. The young homie @John_Wall def caught a body tonight with the behind the back!!! Gotta be #SCTOPTEN,67,92,11,11.0,26,WAS,@,SAC,L (-1),0,7,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,-3.0,1
+152,152,2013-01-16,Calling it a night!!!!! Long flight in the am. I'm out 😴😴😴,67,92,11,11.0,26,WAS,@,SAC,L (-1),0,7,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,-3.0,0
+153,153,2013-01-16,Happy BDAY MLK!!!!!!,67,92,11,11.0,26,WAS,@,SAC,L (-1),0,7,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,-3.0,1
+154,154,2013-01-30,Wheels down in PHILLY!!,71,100,19,15.0,26,WAS,@,PHI,L (-8),1,20,1,2,0.5,0,1,0.0,0,0,,0,2,2,3,1,1,0,2,2,4.6,-9.0,-1
+155,155,2013-01-30,Bday shoutout to my ace @Dhouse35 have a good one bro.,71,100,19,15.0,26,WAS,@,PHI,L (-8),1,20,1,2,0.5,0,1,0.0,0,0,,0,2,2,3,1,1,0,2,2,4.6,-9.0,1
+156,156,2013-02-01,Spending the day at the St. Jude Children's Research Hospital. Such a humbling experience. http://t.co/p3sF4F1S,72,101,20,16.0,26,WAS,@,MEM,L (-9),1,18,2,5,0.4,0,2,0.0,0,0,,0,0,0,1,3,0,0,0,4,5.0,-1.0,0
+157,157,2013-02-01,Congrats to the young homie @RealDealBeal23 for being selected to play in the BBVA rising stars challenge. #welldeserved,72,101,20,16.0,26,WAS,@,MEM,L (-9),1,18,2,5,0.4,0,2,0.0,0,0,,0,0,0,1,3,0,0,0,4,5.0,-1.0,-1
+158,158,2013-02-01,“@WashWizards: '@GTemp14 at the National Civil Rights Museum in Memphis http://t.co/lhICDKhV” Great Experience. #mustsee,72,101,20,16.0,26,WAS,@,MEM,L (-9),1,18,2,5,0.4,0,2,0.0,0,0,,0,0,0,1,3,0,0,0,4,5.0,-1.0,0
+159,159,2013-02-01,Wheels down in Memphis!!,72,101,20,16.0,26,WAS,@,MEM,L (-9),1,18,2,5,0.4,0,2,0.0,0,0,,0,0,0,1,3,0,0,0,4,5.0,-1.0,-1
+160,160,2013-02-01,Just had a GREAT time at the St Jude Children's Research Hospital. Such an amazing place. Treats kids free of charge!!! #suchablessing,72,101,20,16.0,26,WAS,@,MEM,L (-9),1,18,2,5,0.4,0,2,0.0,0,0,,0,0,0,1,3,0,0,0,4,5.0,-1.0,1
+161,161,2013-02-01,About to see what this Shrimp and Grits talking about!!!,72,101,20,16.0,26,WAS,@,MEM,L (-9),1,18,2,5,0.4,0,2,0.0,0,0,,0,0,0,1,3,0,0,0,4,5.0,-1.0,0
+162,162,2013-02-02,Gameday!!,73,102,21,17.0,26,WAS,@,SAS,L (-10),1,11,1,4,0.25,0,1,0.0,0,0,,1,0,1,0,0,0,1,2,2,-1.5,-13.0,0
+163,163,2013-02-02,Im terrible at this game smh lol,73,102,21,17.0,26,WAS,@,SAS,L (-10),1,11,1,4,0.25,0,1,0.0,0,0,,1,0,1,0,0,0,1,2,2,-1.5,-13.0,-1
+164,164,2013-02-02,“@Mr_Shakur2219: I've seen more posts about a fight on WSHH then the celebration of Black History Month. #YallCarryonTho” &lt;&lt;&lt; #this,73,102,21,17.0,26,WAS,@,SAS,L (-10),1,11,1,4,0.25,0,1,0.0,0,0,,1,0,1,0,0,0,1,2,2,-1.5,-13.0,0
+165,165,2013-02-02,Just gave him thanks for waking me up this morning along with all the blessings he's given me. 🙏🙌,73,102,21,17.0,26,WAS,@,SAS,L (-10),1,11,1,4,0.25,0,1,0.0,0,0,,1,0,1,0,0,0,1,2,2,-1.5,-13.0,1
+166,166,2013-02-02,What is RUZZLE?,73,102,21,17.0,26,WAS,@,SAS,L (-10),1,11,1,4,0.25,0,1,0.0,0,0,,1,0,1,0,0,0,1,2,2,-1.5,-13.0,0
+167,167,2013-02-02,I need to up my vocabulary. #ruzzlerealizations,73,102,21,17.0,26,WAS,@,SAS,L (-10),1,11,1,4,0.25,0,1,0.0,0,0,,1,0,1,0,0,0,1,2,2,-1.5,-13.0,0
+168,168,2013-02-02,I'm on RUZZLE. Hit me up gtemp14,73,102,21,17.0,26,WAS,@,SAS,L (-10),1,11,1,4,0.25,0,1,0.0,0,0,,1,0,1,0,0,0,1,2,2,-1.5,-13.0,0
+169,169,2013-02-04,Made it back to DC,74,103,22,18.0,26,WAS,,LAC,W (+8),1,37,7,12,0.583,0,0,,1,2,0.5,0,3,3,2,3,3,2,2,15,13.6,5.0,0
+170,170,2013-02-04,"""@LivingLegend10: ""Damn it's bad after that"" boy I'm jtfo"" LMAO u heard him huh. Cat had me rollin!!!!!",74,103,22,18.0,26,WAS,,LAC,W (+8),1,37,7,12,0.583,0,0,,1,2,0.5,0,3,3,2,3,3,2,2,15,13.6,5.0,-1
+171,171,2013-02-06,Great team win tonight. Big second half from @MartellWebster #wiznation let's keep it rolling. To God be the Glory.,75,104,23,19.0,26,WAS,,NYK,W (+10),1,17,2,4,0.5,0,0,,0,0,,0,2,2,1,0,0,2,0,4,1.3,7.0,1
+172,172,2013-02-06,“@J_Starwood24: Fresh Prince still b funny as hell” my favorite show growing up bruh. Geoffrey is HILARIOUS,75,104,23,19.0,26,WAS,,NYK,W (+10),1,17,2,4,0.5,0,0,,0,0,,0,2,2,1,0,0,2,0,4,1.3,7.0,1
+173,173,2013-02-06,Thanked the man above for everything including waking me up this morning. Practice #ondeck,75,104,23,19.0,26,WAS,,NYK,W (+10),1,17,2,4,0.5,0,0,,0,0,,0,2,2,1,0,0,2,0,4,1.3,7.0,0
+174,174,2013-02-06,@GarrettTempleFa I'd be honored,75,104,23,19.0,26,WAS,,NYK,W (+10),1,17,2,4,0.5,0,0,,0,0,,0,2,2,1,0,0,2,0,4,1.3,7.0,1
+175,175,2013-02-06,iPhone trippin. Gotta hit the apple store tomorrow.,75,104,23,19.0,26,WAS,,NYK,W (+10),1,17,2,4,0.5,0,0,,0,0,,0,2,2,1,0,0,2,0,4,1.3,7.0,0
+176,176,2013-02-06,"""@J_Starwood24: @GTemp14 dat nigga Carlton always reminded me of O lol"" Hahaha @OBrown15",75,104,23,19.0,26,WAS,,NYK,W (+10),1,17,2,4,0.5,0,0,,0,0,,0,2,2,1,0,0,2,0,4,1.3,7.0,0
+177,177,2013-02-06,Is it crazy to take a nap at 6:15 pm?,75,104,23,19.0,26,WAS,,NYK,W (+10),1,17,2,4,0.5,0,0,,0,0,,0,2,2,1,0,0,2,0,4,1.3,7.0,0
+178,178,2013-02-08,At the DC Central Kitchen with my boys @martellwebster kevin_seraphin @john_wall @C_SING31 @janvesely24 http://t.co/kT0hnBRI,76,105,24,20.0,26,WAS,,BRK,W (+15),1,16,1,4,0.25,0,1,0.0,0,0,,0,1,1,1,1,0,0,2,2,0.8,0.0,0
+179,179,2013-02-08,Bigtime WIN tonight.  Got another home streak rolling.  #wiznation,76,105,24,20.0,26,WAS,,BRK,W (+15),1,16,1,4,0.25,0,1,0.0,0,0,,0,1,1,1,1,0,0,2,2,0.8,0.0,0
+180,180,2013-02-11,Wheels down in Milwaukee 😐😐,77,106,25,21.0,26,WAS,@,MIL,W (+12),1,12,1,3,0.333,0,0,,0,0,,0,3,3,0,0,1,1,1,2,0.5,-15.0,0
+181,181,2013-02-13,Made it to the D safely.  What's good people,78,107,26,22.0,26,WAS,@,DET,L (-11),1,14,2,3,0.667,0,0,,0,0,,0,0,0,0,1,0,2,2,4,0.9,3.0,1
+182,182,2013-02-13,Another bigtime win!!!! This time on the road. The young fella @RealDealBeal23 went HAM tonight!!! #careerhigh congrats boy!!!,78,107,26,22.0,26,WAS,@,DET,L (-11),1,14,2,3,0.667,0,0,,0,0,,0,0,0,0,1,0,2,2,4,0.9,3.0,1
+183,183,2013-03-06,In my boy @mjanning23 neck of the woods. SMH too much snow http://t.co/qMy1zaTxE8,84,115,34,28.0,26,WAS,@,MIN,L (-5),0,6,1,2,0.5,0,0,,1,2,0.5,0,0,0,0,0,0,0,0,3,1.6,-6.0,0
+184,184,2013-03-06,Made it to Minneapolis,84,115,34,28.0,26,WAS,@,MIN,L (-5),0,6,1,2,0.5,0,0,,1,2,0.5,0,0,0,0,0,0,0,0,3,1.6,-6.0,0
+185,185,2013-03-08,Made it to BROOKLYN!!,85,116,35,29.0,26,WAS,@,BRK,L (-17),0,24,1,5,0.2,0,1,0.0,0,0,,1,3,4,1,2,0,0,5,2,1.2,6.0,0
+186,186,2013-03-08,Whats good NY??,85,116,35,29.0,26,WAS,@,BRK,L (-17),0,24,1,5,0.2,0,1,0.0,0,0,,1,3,4,1,2,0,0,5,2,1.2,6.0,1
+187,187,2013-03-08,InstaGram: gtemp14,85,116,35,29.0,26,WAS,@,BRK,L (-17),0,24,1,5,0.2,0,1,0.0,0,0,,1,3,4,1,2,0,0,5,2,1.2,6.0,0
+188,188,2013-03-09,Gameday!!!,86,117,36,30.0,26,WAS,,CHA,W (+17),1,23,1,4,0.25,0,0,,0,0,,0,4,4,4,0,0,2,5,2,-0.4,12.0,0
+189,189,2013-03-09,How you a Knicks fan but work for the Nets??? Lmao @Blessed__,86,117,36,30.0,26,WAS,,CHA,W (+17),1,23,1,4,0.25,0,0,,0,0,,0,4,4,4,0,0,2,5,2,-0.4,12.0,0
+190,190,2013-03-12,Wheels down in Clev,87,118,37,31.0,26,WAS,@,CLE,L (-5),1,21,1,3,0.333,0,0,,0,0,,0,3,3,0,0,0,3,4,2,-3.4,-6.0,-1
+191,191,2013-03-12,Blessed better than blessed,87,118,37,31.0,26,WAS,@,CLE,L (-5),1,21,1,3,0.333,0,0,,0,0,,0,3,3,0,0,0,3,4,2,-3.4,-6.0,1
+192,192,2013-03-12,I glorify 🙌 his name for allowing me to see another day.,87,118,37,31.0,26,WAS,@,CLE,L (-5),1,21,1,3,0.333,0,0,,0,0,,0,3,3,0,0,0,3,4,2,-3.4,-6.0,0
+193,193,2013-03-12,Bored,87,118,37,31.0,26,WAS,@,CLE,L (-5),1,21,1,3,0.333,0,0,,0,0,,0,3,3,0,0,0,3,4,2,-3.4,-6.0,0
+194,194,2013-03-13,Gameday!!,88,119,38,32.0,26,WAS,,MIL,W (+13),1,41,6,7,0.857,0,0,,1,1,1.0,1,2,3,4,0,0,2,1,13,12.2,19.0,0
+195,195,2013-03-15,I think I'll start watching that new show REVENGE. Does anybody watch that?,89,120,39,33.0,26,WAS,,NOH,W (+9),1,45,4,5,0.8,0,0,,2,3,0.667,0,2,2,5,1,0,0,0,10,12.8,13.0,1
+196,196,2013-03-16,Gameday!!!,90,121,40,34.0,26,WAS,,PHO,W (+22),1,36,4,10,0.4,3,4,0.75,0,0,,1,2,3,4,2,0,4,3,11,6.5,15.0,0
+197,197,2013-03-16,Thankful that he allowed me to see another day. All praise and glory goes to him. 🙏🙌,90,121,40,34.0,26,WAS,,PHO,W (+22),1,36,4,10,0.4,3,4,0.75,0,0,,1,2,3,4,2,0,4,3,11,6.5,15.0,1
+198,198,2013-03-18,First stop of the trip. Made it to CLT!,91,122,41,35.0,26,WAS,@,CHA,L (-5),1,28,6,8,0.75,2,2,1.0,3,4,0.75,2,3,5,3,2,1,2,1,17,18.1,6.0,0
+199,199,2013-03-18,Thanking him for this day he has made as well as everything else he's done. 🙏🙌,91,122,41,35.0,26,WAS,@,CHA,L (-5),1,28,6,8,0.75,2,2,1.0,3,4,0.75,2,3,5,3,2,1,2,1,17,18.1,6.0,0
+200,200,2013-03-20,Bored!!!,92,123,42,36.0,26,WAS,@,PHO,W (+9),1,28,0,4,0.0,0,1,0.0,0,0,,0,3,3,3,2,0,2,2,0,-0.6,13.0,0
+201,201,2013-03-22,Wheels down in LA!!!,93,124,43,37.0,26,WAS,@,LAL,W (+3),1,36,4,8,0.5,2,3,0.667,0,0,,1,5,6,2,2,1,0,3,10,11.1,-2.0,-1
+202,202,2013-03-22,Proud of my hometown Southern Jags. Lets get this upset!!!,93,124,43,37.0,26,WAS,@,LAL,W (+3),1,36,4,8,0.5,2,3,0.667,0,0,,1,5,6,2,2,1,0,3,10,11.1,-2.0,-1
+203,203,2013-03-22,Hooked on this new Justin Timberlake cd.,93,124,43,37.0,26,WAS,@,LAL,W (+3),1,36,4,8,0.5,2,3,0.667,0,0,,1,5,6,2,2,1,0,3,10,11.1,-2.0,0
+204,204,2013-03-22,At Roscoe's wit the young homie @RealDealBeal23 We definitely leaving here with the #itis,93,124,43,37.0,26,WAS,@,LAL,W (+3),1,36,4,8,0.5,2,3,0.667,0,0,,1,5,6,2,2,1,0,3,10,11.1,-2.0,0
+205,205,2013-03-23,Sooo true. #verseoftheday #THEWORD http://t.co/D2UBvNrlNe,94,125,44,38.0,26,WAS,@,GSW,L (-9),1,43,4,10,0.4,1,2,0.5,0,0,,0,3,3,6,2,0,5,3,9,4.5,-8.0,0
+206,206,2013-03-23,Headed to Staples for shootaround. Gameday!!!!,94,125,44,38.0,26,WAS,@,GSW,L (-9),1,43,4,10,0.4,1,2,0.5,0,0,,0,3,3,6,2,0,5,3,9,4.5,-8.0,0
+207,207,2013-03-23,LA weather is too nice. Smh,94,125,44,38.0,26,WAS,@,GSW,L (-9),1,43,4,10,0.4,1,2,0.5,0,0,,0,3,3,6,2,0,5,3,9,4.5,-8.0,1
+208,208,2013-03-25,Kansas has turned the game completely around. #marchmadness,95,126,45,39.0,26,WAS,,MEM,W (+13),1,35,3,8,0.375,1,3,0.333,0,0,,0,1,1,3,2,0,2,3,7,3.8,5.0,0
+209,209,2013-03-25,In the middle of this 4 1/2 hr flight back to DC just thinking about how good GOD is. I am truly blessed to be where I am!! #grateful,95,126,45,39.0,26,WAS,,MEM,W (+13),1,35,3,8,0.375,1,3,0.333,0,0,,0,1,1,3,2,0,2,3,7,3.8,5.0,0
+210,210,2013-03-25,Finally back in DC!!!,95,126,45,39.0,26,WAS,,MEM,W (+13),1,35,3,8,0.375,1,3,0.333,0,0,,0,1,1,3,2,0,2,3,7,3.8,5.0,0
+211,211,2013-03-25,Is anybody else up?,95,126,45,39.0,26,WAS,,MEM,W (+13),1,35,3,8,0.375,1,3,0.333,0,0,,0,1,1,3,2,0,2,3,7,3.8,5.0,0
+212,212,2013-03-27,Do I know anybody in OKC???,96,127,46,40.0,26,WAS,@,OKC,L (-23),1,39,5,11,0.455,2,6,0.333,1,2,0.5,0,1,1,2,4,0,4,4,13,7.0,-23.0,0
+213,213,2013-03-29,Made it to Orlando! Where my boys at? @iambigbaby11 @AKimble5 @MrBridgeH2O,97,128,47,41.0,26,WAS,@,ORL,L (-5),1,35,2,9,0.222,1,6,0.167,2,2,1.0,2,2,4,3,0,0,0,1,7,5.2,6.0,1
+214,214,2013-03-29,Tough loss tonight. Proud of all my teammates that played tonight. Gotta bounce back #ontothenextone,97,128,47,41.0,26,WAS,@,ORL,L (-5),1,35,2,9,0.222,1,6,0.167,2,2,1.0,2,2,4,3,0,0,0,1,7,5.2,6.0,-1
+215,215,2013-04-03,Catching up with my girl @AshleighJae  Been knowing this girl for 8 yrs now and love her as if she was my sis. #truefriend,100,131,50,44.0,26,WAS,@,TOR,L (-10),1,16,0,2,0.0,0,0,,0,0,,0,2,2,1,2,0,0,1,0,1.5,-11.0,0
+216,216,2013-04-03,Gameday!!!!,100,131,50,44.0,26,WAS,@,TOR,L (-10),1,16,0,2,0.0,0,0,,0,0,,0,2,2,1,2,0,0,1,0,1.5,-11.0,0
+217,217,2013-04-06,"Was the presidents comment about Kamala Harris being ""by far the best looking Attn General..."" Sexist? I don't think so. What do yall think?",101,132,51,45.0,26,WAS,,IND,W (+19),1,30,3,4,0.75,2,3,0.667,0,0,,0,5,5,0,1,1,0,3,8,8.4,12.0,0
+218,218,2013-04-06,I need a new show to start watching on Netflix.,101,132,51,45.0,26,WAS,,IND,W (+19),1,30,3,4,0.75,2,3,0.667,0,0,,0,5,5,0,1,1,0,3,8,8.4,12.0,0
+219,219,2013-04-06,The squad!!!! realdealbeal23 @john_wall yaeyo20 @janvesely24 @C_SING31 kevin_seraphin @trevorariza… http://t.co/PtPP9Mk0ZM,101,132,51,45.0,26,WAS,,IND,W (+19),1,30,3,4,0.75,2,3,0.667,0,0,,0,5,5,0,1,1,0,3,8,8.4,12.0,0
+220,220,2013-04-06,"I guess I'll start on ""Sons of Anarchy"" seems to be the clear winner. Must be pretty good.",101,132,51,45.0,26,WAS,,IND,W (+19),1,30,3,4,0.75,2,3,0.667,0,0,,0,5,5,0,1,1,0,3,8,8.4,12.0,0
+221,221,2013-04-07,So grateful to see another day that The Lord has made!!!! #blessed 🙌🙏,102,133,52,46.0,26,WAS,@,BOS,L (-11),1,24,3,6,0.5,1,2,0.5,0,0,,0,1,1,2,1,2,0,1,7,7.7,-6.0,1
+222,222,2013-04-07,Gameday!!!,102,133,52,46.0,26,WAS,@,BOS,L (-11),1,24,3,6,0.5,1,2,0.5,0,0,,0,1,1,2,1,2,0,1,7,7.7,-6.0,0
+223,223,2013-04-09,Made it to NY!!!,103,134,53,47.0,26,WAS,@,NYK,L (-21),1,30,2,5,0.4,1,2,0.5,2,4,0.5,0,2,2,3,0,0,0,4,7,4.6,4.0,0
+224,224,2013-04-09,Oooohhh,103,134,53,47.0,26,WAS,@,NYK,L (-21),1,30,2,5,0.4,1,2,0.5,2,4,0.5,0,2,2,3,0,0,0,4,7,4.6,4.0,0
+225,225,2013-04-10,Bday shoutout to my bro @akimble5 have a good one bruh.,104,135,54,48.0,26,WAS,,MIA,L (-5),1,31,3,10,0.3,2,6,0.333,0,0,,0,3,3,2,3,0,4,3,8,2.3,-13.0,1
+226,226,2013-04-10,That was a GREAT National Championship game. Congrats to Louisville!!!,104,135,54,48.0,26,WAS,,MIA,L (-5),1,31,3,10,0.3,2,6,0.333,0,0,,0,3,3,2,3,0,4,3,8,2.3,-13.0,1
+227,227,2013-04-10,Both of y'all fat @Beso_Chocolat @e_raine19,104,135,54,48.0,26,WAS,,MIA,L (-5),1,31,3,10,0.3,2,6,0.333,0,0,,0,3,3,2,3,0,4,3,8,2.3,-13.0,-1
+228,228,2013-04-10,Gameday!!!,104,135,54,48.0,26,WAS,,MIA,L (-5),1,31,3,10,0.3,2,6,0.333,0,0,,0,3,3,2,3,0,4,3,8,2.3,-13.0,0
+229,229,2013-04-15,"#RayBan coolin, about to head to NY http://t.co/dpxJgqGeL4",106,137,56,50.0,26,WAS,@,BRK,L (-5),1,39,6,11,0.545,0,2,0.0,2,2,1.0,2,0,2,2,1,0,3,4,14,7.9,5.0,0
+230,230,2013-10-30,"""Oh Lord....  oh Lord,we're not in Kansas anymore.... We're not in Kansas anymore""",108,139,1,1.0,27,WAS,@,DET,L (-11),0,5,0,1,0.0,0,1,0.0,0,0,,0,0,0,1,0,1,0,1,0,0.3,-7.0,-1
+231,231,2013-10-30,Thank you Lord for ALL of your blessings. Forever thankful/grateful 🙌🙏,108,139,1,1.0,27,WAS,@,DET,L (-11),0,5,0,1,0.0,0,1,0.0,0,0,,0,0,0,1,0,1,0,1,0,0.3,-7.0,1
+232,232,2013-11-13,Good luck to my LSU boys today. Playing there opener at UMASS. #tigernation,113,146,8,6.0,27,WAS,@,SAS,L (-13),0,10,0,2,0.0,0,0,,1,2,0.5,0,0,0,2,0,0,0,1,1,0.2,6.0,1
+233,233,2013-11-20,This @JheneAiko album Sail Out @MartellWebster put me on goes hard. Had to put @EMaynor3 on it. #downloaditnow,116,149,11,9.0,27,WAS,@,CLE,W (+7),0,20,2,5,0.4,0,2,0.0,0,0,,2,0,2,0,0,0,0,2,4,1.9,-4.0,-1
+234,234,2013-11-20,Good morning people!!!,116,149,11,9.0,27,WAS,@,CLE,W (+7),0,20,2,5,0.4,0,2,0.0,0,0,,2,0,2,0,0,0,0,2,4,1.9,-4.0,1
+235,235,2013-11-19,Best Man Holiday was a GREAT movie!!!#mustsee,115,148,10,8.0,27,WAS,,MIN,W (+4),0,15,1,4,0.25,0,1,0.0,0,0,,0,1,1,2,1,0,2,3,2,-0.9,-7.0,1
+236,236,2013-11-19,When is Game of Thrones coming back on?,115,148,10,8.0,27,WAS,,MIN,W (+4),0,15,1,4,0.25,0,1,0.0,0,0,,0,1,1,2,1,0,2,3,2,-0.9,-7.0,0
+237,237,2013-11-22,Happy bday to my ace for life @obrown15 #bloodcouldntmakeusanycloser #realfriend #27yrsstrong http://t.co/SCH5vGtZ8T,117,150,12,10.0,27,WAS,@,TOR,L (-8),0,17,1,3,0.333,0,1,0.0,0,0,,1,0,1,1,1,0,1,1,2,1.3,-15.0,1
+238,238,2013-11-26,Psalm 119: 9-11. Thank you LORD. 🙌🙏 The WORD of GOD is the only force we have against satan and his… http://t.co/jtsZtxSiKI,119,152,14,12.0,27,WAS,,LAL,W (+5),0,26,1,3,0.333,0,1,0.0,0,0,,0,2,2,1,1,0,1,3,2,0.4,-5.0,1
+239,239,2013-11-26,Things on my mind!!!!,119,152,14,12.0,27,WAS,,LAL,W (+5),0,26,1,3,0.333,0,1,0.0,0,0,,0,2,2,1,1,0,1,3,2,0.4,-5.0,0
+240,240,2013-11-26,Bday shoutout to my teammate FITZ @35_Fitz LOL,119,152,14,12.0,27,WAS,,LAL,W (+5),0,26,1,3,0.333,0,1,0.0,0,0,,0,2,2,1,1,0,1,3,2,0.4,-5.0,0
+241,241,2013-11-29,Happy Thanksgiving to everybody out there. If you are reading this you have so much to be thankful for. We are all very blessed!!!!,121,154,16,14.0,27,WAS,@,IND,L (-20),0,22,1,7,0.143,0,2,0.0,0,0,,1,1,2,0,1,1,3,2,2,-3.6,-13.0,1
+242,242,2013-11-29,Got a tough overtime W tonight in Milwaukee!!!! Let's keep it going DC!!! #wizkids,121,154,16,14.0,27,WAS,@,IND,L (-20),0,22,1,7,0.143,0,2,0.0,0,0,,1,1,2,0,1,1,3,2,2,-3.6,-13.0,-1
+243,243,2013-11-29,Wheels down in Indy.,121,154,16,14.0,27,WAS,@,IND,L (-20),0,22,1,7,0.143,0,2,0.0,0,0,,1,1,2,0,1,1,3,2,2,-3.6,-13.0,0
+244,244,2013-11-29,Out for the count 😴😴😴,121,154,16,14.0,27,WAS,@,IND,L (-20),0,22,1,7,0.143,0,2,0.0,0,0,,1,1,2,0,1,1,3,2,2,-3.6,-13.0,0
+245,245,2013-11-29,Watching my @LSUBasketball boys play on ESPN2 against St Joes and the young homie @LangGalloway10,121,154,16,14.0,27,WAS,@,IND,L (-20),0,22,1,7,0.143,0,2,0.0,0,0,,1,1,2,0,1,1,3,2,2,-3.6,-13.0,1
+246,246,2013-12-13,With the homie @dee1music last night after his performance. #threesUP #realrighteousrelevant SUPPORT… http://t.co/hacfRQJoz1,126,159,21,19.0,27,WAS,@,ATL,L (-2),0,16,1,4,0.25,0,0,,1,3,0.333,0,1,1,4,0,0,1,1,3,1.5,-5.0,0
+247,247,2013-12-18,Thanking GOD for breathing life into me for another day. Have a blessed day people!!!,129,162,24,22.0,27,WAS,@,BRK,W (+6),0,10,2,7,0.286,1,1,1.0,0,0,,1,1,2,1,1,0,1,1,5,2.2,-2.0,1
+248,248,2013-12-18,Bigtime road win at MSG!! Everybody stepped up. Way to shoot @MartellWebster and WELCOME BACK @RealDealBeal23 #wizkids,129,162,24,22.0,27,WAS,@,BRK,W (+6),0,10,2,7,0.286,1,1,1.0,0,0,,1,1,2,1,1,0,1,1,5,2.2,-2.0,0
+249,249,2013-12-21,"Anchorman 2 was pretty dumb. A few funny parts, but it wasn't all that great to me.",130,163,25,23.0,27,WAS,@,BOS,W (+7),0,12,1,5,0.2,0,1,0.0,0,0,,2,1,3,1,0,0,1,1,2,-0.1,-9.0,1
+250,250,2013-12-21,Chillmode #glasses http://t.co/ZLRsTkjFUI,130,163,25,23.0,27,WAS,@,BOS,W (+7),0,12,1,5,0.2,0,1,0.0,0,0,,2,1,3,1,0,0,1,1,2,-0.1,-9.0,0
+251,251,2014-01-01,BIGTIME road win for us tonight!!! We stayed with it and made a great comeback in the 4th!!! #wizkids,134,167,29,27.0,27,WAS,,DAL,L (-9),0,6,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,-4.0,1
+252,252,2014-01-01,Bday shoutout to the homie @AndiTemp17 #1Fan #greatperson #bigheart,134,167,29,27.0,27,WAS,,DAL,L (-9),0,6,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,-4.0,0
+253,253,2014-01-05,Playing in his👆name!!! 🙌🙏  #repost from @anditemp17 #ijnip #activefaith http://t.co/NDfbELF7f3,136,169,31,29.0,27,WAS,,GSW,L (-16),0,10,2,5,0.4,1,3,0.333,2,2,1.0,0,1,1,2,0,0,0,1,7,5.6,15.0,0
+254,254,2014-01-07,Back in the Charlotte. Sick as a dog!!!,137,170,32,30.0,27,WAS,@,CHA,W (+14),0,16,0,1,0.0,0,0,,0,0,,0,2,2,2,1,0,2,1,0,-0.1,1.0,-1
+255,255,2014-01-07,Who y'all got tonight???,137,170,32,30.0,27,WAS,@,CHA,W (+14),0,16,0,1,0.0,0,0,,0,0,,0,2,2,2,1,0,2,1,0,-0.1,1.0,0
+256,256,2014-01-10,After a good win in New Orleans!!! http://t.co/hEwD4fQLxr,139,172,34,32.0,27,WAS,@,IND,L (-27),0,9,1,2,0.5,0,0,,0,0,,0,1,1,0,0,0,0,1,2,0.9,-14.0,1
+257,257,2014-01-13,Made it safely to Chicago,141,174,36,34.0,27,WAS,@,CHI,W (+14),0,13,2,4,0.5,1,2,0.5,5,7,0.714,0,2,2,1,1,0,0,1,10,9.1,8.0,0
+258,258,2014-01-15,Another good road win!!!! We gotta bring the same energy at home!! #wizkids,142,175,37,35.0,27,WAS,,MIA,W (+17),0,11,1,1,1.0,0,0,,1,2,0.5,0,1,1,1,1,0,1,2,3,2.5,6.0,1
+259,259,2014-01-17,Hellava TEAM WIN at home tonight against the Heat. Everybody that played stepped up and the crowd was great!! #wizkids,143,176,38,36.0,27,WAS,,CHI,W (+3),0,14,3,5,0.6,0,1,0.0,0,0,,1,0,1,5,0,1,0,3,6,7.4,-4.0,-1
+260,260,2014-01-20,Me and my teammate @kevin_seraphin gettin some work in on our day off!!! #kslife thorolgraffix_app http://t.co/4S2BNgWXq8,145,178,40,38.0,27,WAS,,PHI,W (+8),0,18,0,2,0.0,0,0,,0,0,,1,0,1,2,0,0,2,5,0,-3.3,-5.0,0
+261,261,2014-01-24,About to be in the air for almost 5 hrs. 😳😳😳 what to do????,147,180,42,40.0,27,WAS,@,PHO,W (+6),0,23,1,6,0.167,0,1,0.0,1,2,0.5,0,1,1,1,1,1,2,3,3,-1.7,-12.0,0
+262,262,2014-01-24,Made it to sunny PHX,147,180,42,40.0,27,WAS,@,PHO,W (+6),0,23,1,6,0.167,0,1,0.0,1,2,0.5,0,1,1,1,1,1,2,3,3,-1.7,-12.0,0
+263,263,2014-02-03,Super Bowl Sunday!!! Who y'all got???,152,185,47,45.0,27,WAS,,POR,W (+10),0,12,1,1,1.0,0,0,,0,0,,0,1,1,0,3,0,3,1,2,1.6,2.0,1
+264,264,2014-02-11,I personally think it is NECESSARY!!!,156,189,51,49.0,27,WAS,@,MEM,L (-3),0,16,1,2,0.5,0,1,0.0,0,0,,0,1,1,2,3,0,2,0,2,3.7,-1.0,0
+265,265,2014-02-11,MEMPHIS!!,156,189,51,49.0,27,WAS,@,MEM,L (-3),0,16,1,2,0.5,0,1,0.0,0,0,,0,1,1,2,3,0,2,0,2,3.7,-1.0,0
+266,266,2014-02-11,QUESTION!!!!! How do y'all feel about whipping/spanking your kids??? Is it BAD? OK? NECESSARY?,156,189,51,49.0,27,WAS,@,MEM,L (-3),0,16,1,2,0.5,0,1,0.0,0,0,,0,1,1,2,3,0,2,0,2,3.7,-1.0,-1
+267,267,2014-02-12,"Love debating topics like this!! Really like hearing other peoples point of view, and love trying to get them to understand my view!!!",157,190,52,50.0,27,WAS,@,HOU,L (-1),0,8,0,1,0.0,0,0,,0,0,,0,0,0,0,1,0,0,1,0,-0.1,2.0,1
+268,268,2014-02-18,Having fun with my nieces!!! #famfirst http://t.co/ZQ1tg55iBS,158,191,53,51.0,27,WAS,,TOR,L (-10),0,10,0,3,0.0,0,1,0.0,0,0,,3,0,3,0,0,0,0,0,0,0.0,-12.0,1
+269,269,2014-02-18,Felt good to get back into the swing of things.,158,191,53,51.0,27,WAS,,TOR,L (-10),0,10,0,3,0.0,0,1,0.0,0,0,,3,0,3,0,0,0,0,0,0,0.0,-12.0,1
+270,270,2014-03-01,Anybody got any food spots I should check out in Philly?,163,197,59,56.0,27,WAS,@,PHI,W (+19),0,6,0,1,0.0,0,0,,0,0,,0,0,0,3,0,0,0,0,0,1.4,0.0,0
+271,271,2014-03-01,Hello PHILLY!!!!,163,197,59,56.0,27,WAS,@,PHI,W (+19),0,6,0,1,0.0,0,0,,0,0,,0,0,0,3,0,0,0,0,0,1.4,0.0,0
+272,272,2014-03-01,Hellava win tonight!!!! Everybody that played stepped up!!! Great game from the big guy @MGortat. 5 in a row!!!!! #wizkids,163,197,59,56.0,27,WAS,@,PHI,W (+19),0,6,0,1,0.0,0,0,,0,0,,0,0,0,3,0,0,0,0,0,1.4,0.0,1
+273,273,2014-10-29,MIA,193,232,1,1.0,28,WAS,@,MIA,L (-12),1,31,2,8,0.25,2,6,0.333,0,0,,2,5,7,1,2,1,3,1,6,4.1,-2.0,0
+274,274,2014-11-04,Make sure to VOTE tomorrow people!!!!!!,196,235,4,4.0,28,WAS,@,NYK,W (+15),1,30,5,10,0.5,4,7,0.571,3,4,0.75,1,4,5,2,1,1,2,3,17,13.4,20.0,0
+275,275,2014-11-04,Checking out my 2 LSU guys catch this football on #MNF!!! @RuebenRandle and @OBJ_3,196,235,4,4.0,28,WAS,@,NYK,W (+15),1,30,5,10,0.5,4,7,0.571,3,4,0.75,1,4,5,2,1,1,2,3,17,13.4,20.0,0
+276,276,2014-11-07,What up T Dot!!!,198,237,6,6.0,28,WAS,@,TOR,L (-19),1,29,0,6,0.0,0,5,0.0,3,4,0.75,0,2,2,3,2,1,0,3,3,2.6,-21.0,-1
+277,277,2014-11-07,Thankful to see another day GOD has made. #TGBTG,198,237,6,6.0,28,WAS,@,TOR,L (-19),1,29,0,6,0.0,0,5,0.0,3,4,0.75,0,2,2,3,2,1,0,3,3,2.6,-21.0,1
+278,278,2014-11-07,Bigtime win tonight!!! @john_wall http://t.co/jqxAV2y24u,198,237,6,6.0,28,WAS,@,TOR,L (-19),1,29,0,6,0.0,0,5,0.0,3,4,0.75,0,2,2,3,2,1,0,3,3,2.6,-21.0,0
+279,279,2014-11-07,Another big time win at home tonight!! It wasn't pretty but we got it done. @JohnWall with a HELLAVA game!! #wizkids #wejustgettinstarted,198,237,6,6.0,28,WAS,@,TOR,L (-19),1,29,0,6,0.0,0,5,0.0,3,4,0.75,0,2,2,3,2,1,0,3,3,2.6,-21.0,1
+280,280,2014-11-25,😔 SMH. #prayingforallpartiesinvolved http://t.co/yCQoGoA3x5,205,244,13,13.0,28,WAS,,ATL,L (-4),1,14,2,3,0.667,1,2,0.5,0,1,0.0,2,0,2,3,1,0,1,1,5,6.4,-2.0,-1
+281,281,2014-12-16,This smile can ALWAYS brighten my day!! #lovethisgirlsomuch http://t.co/BJytQO2sl4,213,255,24,21.0,28,WAS,,MIN,W (+14),0,10,1,3,0.333,1,2,0.5,0,0,,2,2,4,0,0,0,1,2,3,1.5,-6.0,0
+282,282,2015-01-19,"Russell Wilson just gained all my respect by that statement... ""GOD is too good ALL THE TIME""",224,273,42,32.0,28,WAS,,PHI,W (+35),0,5,3,3,1.0,2,2,1.0,0,0,,0,1,1,0,0,0,1,0,8,6.4,6.0,1
+283,283,2015-01-19,😂😂😂😂 this is a hellava game,224,273,42,32.0,28,WAS,,PHI,W (+35),0,5,3,3,1.0,2,2,1.0,0,0,,0,1,1,0,0,0,1,0,8,6.4,6.0,0
+284,284,2015-01-19,😂😂😂 how did they let him catch that 😂😂😂,224,273,42,32.0,28,WAS,,PHI,W (+35),0,5,3,3,1.0,2,2,1.0,0,0,,0,1,1,0,0,0,1,0,8,6.4,6.0,0
+285,285,2015-01-19,Bigtime KICK,224,273,42,32.0,28,WAS,,PHI,W (+35),0,5,3,3,1.0,2,2,1.0,0,0,,0,1,1,0,0,0,1,0,8,6.4,6.0,0
+286,286,2015-01-19,Who yall got tonight?? I'm taking the Pats and GB,224,273,42,32.0,28,WAS,,PHI,W (+35),0,5,3,3,1.0,2,2,1.0,0,0,,0,1,1,0,0,0,1,0,8,6.4,6.0,-1
+287,287,2015-01-19,Well done SEATTLE. #respect,224,273,42,32.0,28,WAS,,PHI,W (+35),0,5,3,3,1.0,2,2,1.0,0,0,,0,1,1,0,0,0,1,0,8,6.4,6.0,0
+288,288,2015-01-19,We gotta let the GOSPEL do the work!!! Luke Ch. 24 verses 13-35 http://t.co/kL8S9zKeTu,224,273,42,32.0,28,WAS,,PHI,W (+35),0,5,3,3,1.0,2,2,1.0,0,0,,0,1,1,0,0,0,1,0,8,6.4,6.0,-1
+289,289,2015-01-19,Who would've thought that Russell Wilson and Aaron Rodgers would throw a combined 6 ints in this game???,224,273,42,32.0,28,WAS,,PHI,W (+35),0,5,3,3,1.0,2,2,1.0,0,0,,0,1,1,0,0,0,1,0,8,6.4,6.0,0
+290,290,2015-01-19,TD beast mode,224,273,42,32.0,28,WAS,,PHI,W (+35),0,5,3,3,1.0,2,2,1.0,0,0,,0,1,1,0,0,0,1,0,8,6.4,6.0,0
+291,291,2015-01-19,WOW!!,224,273,42,32.0,28,WAS,,PHI,W (+35),0,5,3,3,1.0,2,2,1.0,0,0,,0,1,1,0,0,0,1,0,8,6.4,6.0,0
+292,292,2015-01-19,2 perfect passes by Russ Wilson after a terrible start. #paythatman,224,273,42,32.0,28,WAS,,PHI,W (+35),0,5,3,3,1.0,2,2,1.0,0,0,,0,1,1,0,0,0,1,0,8,6.4,6.0,-1
+293,293,2015-01-19,The kicker has to fix the net himself huh? That's messed up,224,273,42,32.0,28,WAS,,PHI,W (+35),0,5,3,3,1.0,2,2,1.0,0,0,,0,1,1,0,0,0,1,0,8,6.4,6.0,-1
+294,294,2015-01-28,We had to come to LA when it was raining smh,227,278,47,35.0,28,WAS,@,PHO,L (-8),0,7,3,5,0.6,0,1,0.0,0,0,,0,0,0,1,1,0,0,1,6,5.0,3.0,0
+295,295,2015-02-20,This trade deadline was the craziest I've seen in a while!!!,235,286,55,43.0,28,WAS,,CLE,L (-38),0,9,1,4,0.25,0,0,,0,2,0.0,0,4,4,1,0,0,1,1,2,-0.7,-22.0,0
+296,296,2015-03-07,So sorry to hear about @wessywes2 smh. Get well bro!!!,243,294,63,51.0,28,WAS,@,MIL,L (-6),0,21,4,6,0.667,1,2,0.5,2,4,0.5,0,2,2,1,2,0,0,3,11,9.7,8.0,-1
+297,297,2015-05-09,Birthday shout out to my big bro @GTemp14 !! Show my boy some love !!,246,297,7,2.0,29,WAS,,ATL,W (+2),0,9,0,1,0.0,0,0,,3,6,0.5,0,1,1,0,1,0,1,1,3,1.0,6.0,1
+298,298,2015-05-09,Happy Birthday @GTemp14!!! Enjoy!!,246,297,7,2.0,29,WAS,,ATL,W (+2),0,9,0,1,0.0,0,0,,3,6,0.5,0,1,1,0,1,0,1,1,3,1.0,6.0,1
+299,299,2015-05-09,29... That boy getting old!!! #bdayselfie #blessedtoseeanotheryear https://t.co/PgRONLnlye,246,297,7,2.0,29,WAS,,ATL,W (+2),0,9,0,1,0.0,0,0,,3,6,0.5,0,1,1,0,1,0,1,1,3,1.0,6.0,0
+300,300,2015-05-09,Thanks Andi!! https://t.co/vbQ5jN59mO,246,297,7,2.0,29,WAS,,ATL,W (+2),0,9,0,1,0.0,0,0,,3,6,0.5,0,1,1,0,1,0,1,1,3,1.0,6.0,1
+301,301,2015-11-17,No better feeling than knowing the work you put in is paying off.... #grindmode #tgbtg https://t.co/a5JGv21oAD,255,308,9,7.0,29,WAS,,MIL,W (+29),1,30,3,9,0.333,2,4,0.5,2,2,1.0,1,1,2,2,2,0,0,3,10,8.1,16.0,-1
+302,302,2015-11-21,With my bros at the #walkthisway2015 fashion show to STOP DOMESTIC VIOLENCE. @realdealbeal23 dubblea74 https://t.co/Gb5UeYYxRv,256,309,10,8.0,29,WAS,@,DET,W (+2),0,26,3,6,0.5,1,3,0.333,1,2,0.5,0,5,5,1,1,0,1,1,8,6.4,23.0,-1
+303,303,2015-11-21,Detroit.... What up doe,256,309,10,8.0,29,WAS,@,DET,W (+2),0,26,3,6,0.5,1,3,0.333,1,2,0.5,0,5,5,1,1,0,1,1,8,6.4,23.0,-1
+304,304,2015-11-27,Help us use Ryan's life and legacy to make a positive impact on our communities. Please click the… https://t.co/szBiV19wVk,259,312,13,11.0,29,WAS,@,BOS,L (-33),0,11,2,4,0.5,0,1,0.0,1,2,0.5,0,1,1,0,1,0,1,0,5,2.9,-9.0,0
+305,305,2015-11-28,Yo look where we had shoot around  @mjanning23 https://t.co/3HEiQ0YACD,260,313,14,12.0,29,WAS,,TOR,L (-2),0,17,0,6,0.0,0,4,0.0,1,2,0.5,0,2,2,1,3,1,0,1,1,1.0,-4.0,0
+306,306,2015-12-06,"Recognize it is sin
+take Responsibility for the sin
+make Restitution for the sin
+Receive God's message 
+REPENT
+
+Have a blessed day !!",264,317,18,16.0,29,WAS,,DAL,L (-12),0,13,0,1,0.0,0,1,0.0,0,0,,0,1,1,1,0,0,0,4,0,-1.3,-16.0,-1
+307,307,2016-01-20,I SEE YOU MT!!!!!!!!!!! #LSUBOYS,287,340,41,39.0,29,WAS,,MIA,W (+19),1,29,4,6,0.667,1,1,1.0,2,2,1.0,1,1,2,3,1,0,0,0,11,12.5,18.0,1
+308,308,2016-01-20,Was fortunate enough to recognize Dr. King prior to our game!!! #THANKYOUMLK https://t.co/UzmHUetfPf,287,340,41,39.0,29,WAS,,MIA,W (+19),1,29,4,6,0.667,1,1,1.0,2,2,1.0,1,1,2,3,1,0,0,0,11,12.5,18.0,0
+309,309,2016-01-20,MARCUS THORNTON IS A MAN ON A MISSION! 😳😳😳 WE'RE HEADED TO OVERTIME! #HOUatLAC #TNTALERT,287,340,41,39.0,29,WAS,,MIA,W (+19),1,29,4,6,0.667,1,1,1.0,2,2,1.0,1,1,2,3,1,0,0,0,11,12.5,18.0,1
+310,310,2016-01-25,Tough catch by E. Sanders,288,341,42,40.0,29,WAS,,BOS,L (-25),1,23,0,7,0.0,0,4,0.0,2,2,1.0,0,4,4,1,0,0,0,2,2,-1.8,-7.0,0
+311,311,2016-01-25,Gronk a beast!!! Lol,288,341,42,40.0,29,WAS,,BOS,L (-25),1,23,0,7,0.0,0,4,0.0,2,2,1.0,0,4,4,1,0,0,0,2,2,-1.8,-7.0,1
+312,312,2016-01-25,What was that everyone was saying about Peyton???,288,341,42,40.0,29,WAS,,BOS,L (-25),1,23,0,7,0.0,0,4,0.0,2,2,1.0,0,4,4,1,0,0,0,2,2,-1.8,-7.0,1
+313,313,2016-01-25,Von Miller is on one this game!!!!,288,341,42,40.0,29,WAS,,BOS,L (-25),1,23,0,7,0.0,0,4,0.0,2,2,1.0,0,4,4,1,0,0,0,2,2,-1.8,-7.0,0
+314,314,2016-01-25,Peyton tossing that thing right now.,288,341,42,40.0,29,WAS,,BOS,L (-25),1,23,0,7,0.0,0,4,0.0,2,2,1.0,0,4,4,1,0,0,0,2,2,-1.8,-7.0,-1
+315,315,2016-01-25,The Broncos defense is showing everybody why they were the best in the league this year!!!!,288,341,42,40.0,29,WAS,,BOS,L (-25),1,23,0,7,0.0,0,4,0.0,2,2,1.0,0,4,4,1,0,0,0,2,2,-1.8,-7.0,1
+316,316,2016-01-30,"So proud of my bro!!!!
+https://t.co/QFkpO8DD2t",291,344,45,43.0,29,WAS,@,HOU,W (+1),1,34,5,14,0.357,1,7,0.143,0,0,,0,4,4,4,1,0,0,6,11,5.8,3.0,0
+317,317,2016-02-06,"My father, Collis Temple, Jr.  does not inspire me just because he was the first African… https://t.co/C5q8jmW6JQ",295,348,49,47.0,29,WAS,@,CHO,L (-4),1,25,1,4,0.25,0,2,0.0,0,0,,1,2,3,1,1,0,2,5,2,-1.4,-10.0,-1
+318,318,2016-03-12,This time of year always makes me think back to our Final 4 run.  Lets make a run this year… https://t.co/1lpG4xtq0g,311,364,65,63.0,29,WAS,@,DEN,L (-16),1,34,4,8,0.5,2,5,0.4,2,2,1.0,2,3,5,0,1,0,2,6,12,6.9,-10.0,0
+319,319,2016-03-21,"Remembering the good times with my bros @RealDealBeal23 and @GTemp14. Always great to see them, amazing teammates! https://t.co/qVEDNLo5ZN",316,369,70,68.0,29,WAS,@,ATL,W (+15),0,25,2,5,0.4,1,4,0.25,0,0,,1,2,3,1,1,1,1,5,5,3.0,-4.0,1
+320,320,2016-03-27,"""When you complain, you'll remain... When you Praise, you'll be RAISED!!"" Joel Osteen",319,372,73,71.0,29,WAS,@,LAL,W (+13),0,16,2,2,1.0,0,0,,0,0,,0,0,0,0,1,0,0,3,4,3.2,2.0,0
+321,321,2016-04-08,Brothers in arms... https://t.co/e0ssSeJXKR,325,378,79,77.0,29,WAS,@,DET,L (-13),0,21,1,6,0.167,0,3,0.0,0,0,,0,3,3,2,1,1,0,1,2,1.8,6.0,0
+322,322,2016-04-10,I love my my Lord and SaviorJesus Christ!!! #randomthought,326,379,80,78.0,29,WAS,,CHO,W (+15),0,17,1,2,0.5,0,1,0.0,1,1,1.0,0,2,2,3,0,0,1,3,3,2.5,8.0,1
+323,323,2016-10-26,Thanks lil bro!! https://t.co/6wFjP5fS7P,329,382,1,1.0,30,SAC,@,PHO,W (+19),0,18,6,8,0.75,0,1,0.0,0,0,,1,1,2,3,0,0,2,2,12,9.1,7.0,1
+324,324,2016-10-26,"Can’t think of 1 NBA player I’d like to be friends with, to be honest.",329,382,1,1.0,30,SAC,@,PHO,W (+19),0,18,6,8,0.75,0,1,0.0,0,0,,1,1,2,3,0,0,2,2,12,9.1,7.0,-1
+325,325,2016-10-31,GPODAWUND? #SCNotTop10 (via @thatmikeklauss) https://t.co/mA48ldaKiV,332,385,4,4.0,30,SAC,@,ATL,L (-11),0,25,4,8,0.5,1,2,0.5,0,0,,0,2,2,3,0,1,1,3,9,6.2,-7.0,0
+326,326,2016-10-31,Great first win in @Golden1Center tonight!!,332,385,4,4.0,30,SAC,@,ATL,L (-11),0,25,4,8,0.5,1,2,0.5,0,0,,0,2,2,3,0,1,1,3,9,6.2,-7.0,1
+327,327,2016-11-01,The Phoenix Suns unveiled their 'Lion King Cam' in today's game 😂 https://t.co/bZMb6tRJS4,333,386,5,5.0,30,SAC,@,MIA,L (-12),0,30,1,5,0.2,0,1,0.0,0,0,,2,2,4,0,0,2,1,2,2,0.5,-12.0,-1
+328,328,2016-11-01,Lol youngin came in way too smooth https://t.co/M8ljrnUU5c,333,386,5,5.0,30,SAC,@,MIA,L (-12),0,30,1,5,0.2,0,1,0.0,0,0,,2,2,4,0,0,2,1,2,2,0.5,-12.0,0
+329,329,2016-11-01,They fear what they don't understand,333,386,5,5.0,30,SAC,@,MIA,L (-12),0,30,1,5,0.2,0,1,0.0,0,0,,2,2,4,0,0,2,1,2,2,0.5,-12.0,0
+330,330,2016-11-08,Get out and vot BR!!! #batonrougemayor https://t.co/uqW8n3ygPv,337,390,9,9.0,30,SAC,,NOP,W (+8),0,19,1,4,0.25,1,4,0.25,1,1,1.0,0,2,2,3,1,0,0,0,4,5.3,7.0,-1
+331,331,2016-11-10,".@VanJones68: “It's hard to be a parent tonight. ... You tell your kids don’t be a bully"" and then have this outcome https://t.co/wVIP9gCvCu",338,391,10,10.0,30,SAC,,LAL,L (-10),0,17,0,3,0.0,0,0,,2,2,1.0,1,1,2,1,1,0,0,1,2,2.2,-2.0,-1
+332,332,2016-11-10,Welcome to the #WhiteLash.,338,391,10,10.0,30,SAC,,LAL,L (-10),0,17,0,3,0.0,0,0,,2,2,1.0,1,1,2,1,1,0,0,1,2,2.2,-2.0,0
+333,333,2016-11-10,God wouldn't put anything on us that he didn't think we could handle!!!! #Truth #LiveLoveAndLaugh,338,391,10,10.0,30,SAC,,LAL,L (-10),0,17,0,3,0.0,0,0,,2,2,1.0,1,1,2,1,1,0,0,1,2,2.2,-2.0,0
+334,334,2016-11-10,"Last thing i will say... LETS GIVE HIM A CHANCE TO PROVE US ""non believers"" WRONG. #WeMustComeTogether #DivisionIsNotTheAnswer",338,391,10,10.0,30,SAC,,LAL,L (-10),0,17,0,3,0.0,0,0,,2,2,1.0,1,1,2,1,1,0,0,1,2,2.2,-2.0,0
+335,335,2016-11-10,I still can't believe this...,338,391,10,10.0,30,SAC,,LAL,L (-10),0,17,0,3,0.0,0,0,,2,2,1.0,1,1,2,1,1,0,0,1,2,2.2,-2.0,0
+336,336,2016-11-10,@GTemp14 cmon man. I get the peaceful approach but not when they got control of the senate and house and prez. Stop n frisk? Ban Muslims?,338,391,10,10.0,30,SAC,,LAL,L (-10),0,17,0,3,0.0,0,0,,2,2,1.0,1,1,2,1,1,0,0,1,2,2.2,-2.0,0
+337,337,2016-11-10,Always try to surround yourself with #likeminded individuals!!! #christianmen #greatconvo https://t.co/UxCukaB4zQ,338,391,10,10.0,30,SAC,,LAL,L (-10),0,17,0,3,0.0,0,0,,2,2,1.0,1,1,2,1,1,0,0,1,2,2.2,-2.0,0
+338,338,2016-11-11,"Rest in Paradise Greg Ballard, thoughts are with his family!!!",339,392,11,11.0,30,SAC,@,POR,L (-2),0,19,0,0,,0,0,,0,0,,0,4,4,2,1,0,0,1,0,3.2,-1.0,0
+339,339,2016-11-25,"@iJesseWilliams @GTemp14 Are we, as white people, supposed to be ashamed that our ancestors migrated across the ocean and started the USA?",344,397,16,16.0,30,SAC,,HOU,L (-13),0,24,3,6,0.5,1,4,0.25,2,2,1.0,0,3,3,1,2,0,3,2,9,5.8,3.0,-1
+340,340,2016-11-25,You're welcome. Thanks for the support. Happy Thanksgiving!! https://t.co/YLcul0s7fL,344,397,16,16.0,30,SAC,,HOU,L (-13),0,24,3,6,0.5,1,4,0.25,2,2,1.0,0,3,3,1,2,0,3,2,9,5.8,3.0,1
+341,341,2016-11-25,Another big time win!! Let's keep it going!! #SacramentoProud,344,397,16,16.0,30,SAC,,HOU,L (-13),0,24,3,6,0.5,1,4,0.25,2,2,1.0,0,3,3,1,2,0,3,2,9,5.8,3.0,1
+342,342,2016-12-09,Much needed win tonight to end the road trip!! Let's turn this thing around!!! #SacramentoProud,350,403,22,22.0,30,SAC,,NYK,L (-3),0,26,2,6,0.333,1,4,0.25,0,0,,0,0,0,1,3,0,0,0,5,5.3,0.0,1
+343,343,2016-12-14,Gotta be locked in at all times!!! https://t.co/YWRYpEbGVV,353,406,25,25.0,30,SAC,@,HOU,L (-34),1,30,7,13,0.538,5,9,0.556,1,1,1.0,1,1,2,4,0,1,4,2,20,13.4,-21.0,0
+344,344,2016-12-14,Great team win!! Thanks to the REAL Sac fans out there for your support. #SacramentoProud,353,406,25,25.0,30,SAC,@,HOU,L (-34),1,30,7,13,0.538,5,9,0.556,1,1,1.0,1,1,2,4,0,1,4,2,20,13.4,-21.0,1
+345,345,2016-12-16,Rest in Paradise Craig Sager!!! Thoughts and prayers with his family!!!,354,407,26,26.0,30,SAC,@,MEM,W (+4),1,37,4,10,0.4,3,5,0.6,6,6,1.0,2,4,6,4,2,0,2,1,17,16.6,0.0,0
+346,346,2016-12-16,The best to ever do it in our game!!! Rest in Paradise #craigsager https://t.co/0pWEJTncWv,354,407,26,26.0,30,SAC,@,MEM,W (+4),1,37,4,10,0.4,3,5,0.6,6,6,1.0,2,4,6,4,2,0,2,1,17,16.6,0.0,1
+347,347,2016-12-18,😱😱 https://t.co/kByHfS2Yy5,355,408,27,27.0,30,SAC,@,DAL,L (-20),1,36,1,10,0.1,1,8,0.125,2,2,1.0,1,4,5,7,2,1,3,3,5,3.7,-8.0,0
+348,348,2016-12-18,Great road win tonight!! Hellava game @kostakoufos #SacramentoProud,355,408,27,27.0,30,SAC,@,DAL,L (-20),1,36,1,10,0.1,1,8,0.125,2,2,1.0,1,4,5,7,2,1,3,3,5,3.7,-8.0,1
+349,349,2016-12-23,Tough comeback win in Utah tonight!!! Team effort and hellava game from @TyLawson3 #SacramentoProud,358,411,30,30.0,30,SAC,@,MIN,W (+4),0,26,3,6,0.5,1,3,0.333,2,2,1.0,2,4,6,4,0,0,1,3,9,9.2,7.0,0
+350,350,2016-12-23,Shoutout to my guy @JackMcClinton and his activedreamers blankets!!! Great present for the kids.… https://t.co/G983KJqqmu,358,411,30,30.0,30,SAC,@,MIN,W (+4),0,26,3,6,0.5,1,3,0.333,2,2,1.0,2,4,6,4,0,0,1,3,9,9.2,7.0,1
+351,351,2016-12-23,"This is a DAMN SHAME!!! The officer asks ""why not"" when the mom says the man doesn't have the right to choke her son. #RACISM #newjimcrow https://t.co/osCzoQG9Ed",358,411,30,30.0,30,SAC,@,MIN,W (+4),0,26,3,6,0.5,1,3,0.333,2,2,1.0,2,4,6,4,0,0,1,3,9,9.2,7.0,-1
+352,352,2016-12-23,I remember https://t.co/QTXm90cvIv,358,411,30,30.0,30,SAC,@,MIN,W (+4),0,26,3,6,0.5,1,3,0.333,2,2,1.0,2,4,6,4,0,0,1,3,9,9.2,7.0,0
+353,353,2016-12-26,Lol Lebron didn't have to hang on the rim like that though. 😂😂,359,412,31,31.0,30,SAC,,PHI,W (+2),0,29,1,4,0.25,1,3,0.333,2,2,1.0,0,1,1,3,1,0,1,0,5,5.0,8.0,-1
+354,354,2016-12-26,RJ turning back the clock on em!!,359,412,31,31.0,30,SAC,,PHI,W (+2),0,29,1,4,0.25,1,3,0.333,2,2,1.0,0,1,1,3,1,0,1,0,5,5.0,8.0,0
+355,355,2016-12-28,Got our 4th in a row!!! Ride or die wit my big dog!!!! @boogiecousins #sacramentoproud https://t.co/SkFLWjv4lP,360,413,32,32.0,30,SAC,@,POR,L (-13),0,31,6,13,0.462,2,6,0.333,0,0,,0,3,3,1,2,0,1,3,14,8.7,-1.0,-1
+356,356,2017-01-06,Bad loss tonight. We'll make it up to y'all  #sacfans #SacramentoProud,364,417,36,36.0,30,SAC,,LAC,L (-8),0,33,2,7,0.286,1,2,0.5,0,0,,5,4,9,1,0,0,0,5,5,4.3,-16.0,-1
+357,357,2017-01-18,These three... https://t.co/I1XhnqWPLw,369,422,41,41.0,30,SAC,,IND,L (-6),0,29,4,8,0.5,1,5,0.2,0,0,,1,3,4,3,0,0,1,4,9,6.1,-16.0,0
+358,358,2017-01-20,Prayers going up for my guy 🙏🏾. I know you'll bounce back harder than before!!! https://t.co/TSlrAZxZm7,370,423,42,42.0,30,SAC,@,MEM,L (-16),1,33,5,9,0.556,2,5,0.4,2,3,0.667,0,3,3,3,1,2,0,3,14,13.5,-14.0,0
+359,359,2017-01-21,Thank you for providing hope for our people in a country where that is not always the case. I… https://t.co/AIKAsytjR8,371,424,43,43.0,30,SAC,@,CHI,L (-3),1,30,3,9,0.333,1,4,0.25,1,2,0.5,0,3,3,3,2,1,2,5,8,4.2,7.0,1
+360,360,2017-01-23,This is getting BAD!!!! 😡,372,425,44,44.0,30,SAC,@,DET,W (+5),1,34,3,6,0.5,1,2,0.5,4,5,0.8,1,2,3,4,1,0,2,3,11,9.5,2.0,-1
+361,361,2017-01-23,"@GTemp14 We love you, man. Keep fighting. Thought you guys played really well tonight. The Ws will come with that type of game, no doubt. ✊🏽",372,425,44,44.0,30,SAC,@,DET,W (+5),1,34,3,6,0.5,1,2,0.5,4,5,0.8,1,2,3,4,1,0,2,3,11,9.5,2.0,1
+362,362,2017-01-23,@GTemp14 you guys played your asses off tonight. Just gotta control what you can control I guess...,372,425,44,44.0,30,SAC,@,DET,W (+5),1,34,3,6,0.5,1,2,0.5,4,5,0.8,1,2,3,4,1,0,2,3,11,9.5,2.0,0
+363,363,2017-01-25,Trill came up big in Detroit 👊 https://t.co/BOjaQNFVPd,373,426,45,45.0,30,SAC,@,CLE,W (+4),1,38,4,9,0.444,1,4,0.25,3,3,1.0,0,4,4,2,4,0,0,3,12,12.7,-1.0,0
+364,364,2017-01-27,HELLAVA road win tonight!!! Everybody contributed!!! @KingMali23 wit a big game and AA with the game winner!!! #SacramentoProud,374,427,46,46.0,30,SAC,@,IND,L (-4),1,33,0,4,0.0,0,1,0.0,2,2,1.0,0,0,0,3,2,0,4,4,2,-2.3,-18.0,-1
+365,365,2017-01-27,Gotta leave it all on the floor!!! https://t.co/XUsIAi7niX,374,427,46,46.0,30,SAC,@,IND,L (-4),1,33,0,4,0.0,0,1,0.0,2,2,1.0,0,0,0,3,2,0,4,4,2,-2.3,-18.0,-1
+366,366,2017-01-27,"DeMarcus Cousins Named 2017 Western Conference NBA All-Star
+» https://t.co/2fjVt73zST https://t.co/2Tq4Zh6xse",374,427,46,46.0,30,SAC,@,IND,L (-4),1,33,0,4,0.0,0,1,0.0,2,2,1.0,0,0,0,3,2,0,4,4,2,-2.3,-18.0,0
+367,367,2017-01-28,Shoutout to my big dog getting his 3rd trip to the ASG. Well deserved big fella!!! https://t.co/lTyOi7SOFk,375,428,47,47.0,30,SAC,@,CHO,W (+3),1,24,2,7,0.286,1,3,0.333,2,4,0.5,0,1,1,1,1,0,0,2,7,3.3,-8.0,-1
+368,368,2017-03-05,"Second-generation NBA players @Larrydn22, @GTemp14 and @XavierSilas discuss the pros/cons of having an NBA father: https://t.co/RL6cdAhjjm",378,443,62,50.0,30,SAC,,UTA,L (-1),0,24,4,9,0.444,2,4,0.5,1,1,1.0,0,2,2,4,3,0,2,2,11,9.9,-4.0,0
+369,369,2017-03-11,"It's been and honor to serve the LSU community for 22yrs!
+Thanks to my family all the players, coaches and incredible fans!
+#GEAUXTIGERS!",381,447,66,53.0,30,SAC,,DEN,L (-13),0,18,1,5,0.2,0,4,0.0,0,0,,1,1,2,3,0,1,0,1,2,2.3,-14.0,1
+370,370,2017-03-10,This is the toughest one I've seen. Which one do you get rid of???? I say Love and Bball gotta go. https://t.co/5bj1j19Cn2,380,446,65,52.0,30,SAC,,WAS,L (-8),0,30,2,6,0.333,2,2,1.0,1,2,0.5,0,0,0,5,0,0,0,2,7,5.9,-8.0,0
+371,371,2017-03-18,Shoutout to my guy @MT_CoachDavis on a hellava win in the first round!!! #greatcoach,384,450,69,56.0,30,SAC,@,OKC,L (-16),1,28,2,8,0.25,1,6,0.167,2,2,1.0,1,2,3,4,3,0,2,2,7,6.5,-1.0,1
+372,372,2017-03-18,This is where players can make a name for theirselves!!! #marchmadness #flashbackfriday @… https://t.co/F3mTTvCxFB,384,450,69,56.0,30,SAC,@,OKC,L (-16),1,28,2,8,0.25,1,6,0.167,2,2,1.0,1,2,3,4,3,0,2,2,7,6.5,-1.0,0
+373,373,2017-03-18,The kids were awesome I merely lived out a bucket list moment with @OfficialBBD. Much ✊🏾 https://t.co/1F5jpMVLpp,384,450,69,56.0,30,SAC,@,OKC,L (-16),1,28,2,8,0.25,1,6,0.167,2,2,1.0,1,2,3,4,3,0,2,2,7,6.5,-1.0,1
+374,374,2017-03-24,Shoutout to @AndiOnTheReal for the 🔥 edit!! @ Golden 1 Center https://t.co/YPZOXD6FIp,387,453,72,59.0,30,SAC,@,GSW,L (-14),0,16,2,5,0.4,1,1,1.0,0,0,,0,2,2,3,2,1,3,2,5,3.9,-19.0,0
+375,375,2017-03-27,If anybody is in the Los Angeles area go check out my sis stikks_model doing this dope event. https://t.co/izwSY8G0UW,389,455,74,61.0,30,SAC,,MEM,W (+1),1,34,2,10,0.2,2,8,0.25,0,0,,0,4,4,3,1,1,2,2,6,2.0,3.0,-1
+376,376,2017-04-04,How Garrett Temple (@GTemp14) went from 10-day journeyman to key player in the NBA. GREAT quotes from Garrett here: https://t.co/Ac4MopDMhx,391,459,78,63.0,30,SAC,,DAL,W (+11),0,22,1,6,0.167,0,3,0.0,1,1,1.0,0,5,5,5,3,1,3,1,3,4.5,-6.0,1
+377,377,2017-04-04,I can't make this up lol. My journey.  https://t.co/IFCyMRla8m,391,459,78,63.0,30,SAC,,DAL,W (+11),0,22,1,6,0.167,0,3,0.0,1,1,1.0,0,5,5,5,3,1,3,1,3,4.5,-6.0,0
+378,378,2017-10-23,Tough game. Gotta bounce back!!! #ontothenextone,397,466,4,4.0,31,SAC,@,PHO,L (-2),0,24,8,13,0.615,6,8,0.75,1,2,0.5,1,1,2,1,0,0,1,3,23,16.2,14.0,0
+379,379,2017-10-21,"“We are witnesses to the most ruthless attack on a president &amp; the people who voted for him...in American history."" -@DLoesch #NRA https://t.co/rcPAKMVJI0",396,465,3,3.0,31,SAC,@,DEN,L (-17),0,17,1,3,0.333,1,3,0.333,1,2,0.5,0,1,1,2,1,1,2,1,4,2.9,-11.0,0
+380,380,2017-11-07,Had a great time with my young fellas listening to @Lecrae kill it on stage!!!  #atwtour @ Ace… https://t.co/MyWn5URETo,402,472,10,9.0,31,SAC,,OKC,W (+8),1,31,3,9,0.333,2,6,0.333,0,0,,0,5,5,2,0,0,2,2,8,3.0,11.0,1
+381,381,2017-11-11,Reading about Bacon’s Rebellion. Yeah they skipped over this in my history classes.,404,474,12,11.0,31,SAC,@,NYK,L (-27),1,22,3,8,0.375,1,5,0.2,0,0,,0,3,3,1,0,1,0,1,7,4.5,-18.0,-1
+382,382,2017-11-11,Check out the homie @dee1music new album!!!  So happy for you bro!!! Long time coming!!! https://t.co/nVPhRucRjl,404,474,12,11.0,31,SAC,@,NYK,L (-27),1,22,3,8,0.375,1,5,0.2,0,0,,0,3,3,1,0,1,0,1,7,4.5,-18.0,1
+383,383,2017-11-11,The kid is a GAMER!!! @ Golden 1 Center https://t.co/ilytOQRAAe,404,474,12,11.0,31,SAC,@,NYK,L (-27),1,22,3,8,0.375,1,5,0.2,0,0,,0,3,3,1,0,1,0,1,7,4.5,-18.0,-1
+384,384,2017-11-11,Happy Veterans Day to all those who serve. You are appreciated!!!,404,474,12,11.0,31,SAC,@,NYK,L (-27),1,22,3,8,0.375,1,5,0.2,0,0,,0,3,3,1,0,1,0,1,7,4.5,-18.0,1
+385,385,2017-11-11,"@GTemp14 @JJacks_44 @THEwillieCS15 @swipathefox That last 3 made me accidentally break one of my favorito mugs, but i'm so happy it happened... #SacramentoProud",404,474,12,11.0,31,SAC,@,NYK,L (-27),1,22,3,8,0.375,1,5,0.2,0,0,,0,3,3,1,0,1,0,1,7,4.5,-18.0,-1
+386,386,2017-11-11,"Big time team win!!! So many big plays down the stretch!!! @JJacks_44 with a big game, @THEwillieCS15 with the big block annnndddd @swipathefox with the game winner!!!!!! #SacProud",404,474,12,11.0,31,SAC,@,NYK,L (-27),1,22,3,8,0.375,1,5,0.2,0,0,,0,3,3,1,0,1,0,1,7,4.5,-18.0,1
+387,387,2017-11-11,#MOOD @ Golden 1 Center https://t.co/YXL7WimmCa,404,474,12,11.0,31,SAC,@,NYK,L (-27),1,22,3,8,0.375,1,5,0.2,0,0,,0,3,3,1,0,1,0,1,7,4.5,-18.0,0
+388,388,2017-11-11,😂😂😂😂😂 https://t.co/Ooaf7qxsII,404,474,12,11.0,31,SAC,@,NYK,L (-27),1,22,3,8,0.375,1,5,0.2,0,0,,0,3,3,1,0,1,0,1,7,4.5,-18.0,0
+389,389,2017-11-13,Yoooo this is s must see #APeoplesJourney @NMAAHC,405,475,13,12.0,31,SAC,@,WAS,L (-18),1,21,4,6,0.667,3,4,0.75,0,0,,0,0,0,2,1,1,0,2,11,10.7,-5.0,0
+390,390,2017-11-13,Whoever controls the present will use their power to control the past in hopes to control the future!!! #APeoplesJourney @NMAAHC,405,475,13,12.0,31,SAC,@,WAS,L (-18),1,21,4,6,0.667,3,4,0.75,0,0,,0,0,0,2,1,1,0,2,11,10.7,-5.0,1
+391,391,2017-12-02,"What is up with all these men sexually harassing women??? It’s obviously been going on for a very long time, but I’m still dumbfounded as to what type of upbringing you had to mistreat women like that? If they don’t want you... let it go!!! Smh",415,485,23,22.0,31,SAC,@,MIL,L (-5),1,32,4,11,0.364,4,9,0.444,0,0,,0,4,4,1,2,0,1,1,12,8.4,-14.0,-1
+392,392,2017-12-01,#PhilandoCastilles fiancé got 800k for seeing him killed n front of her and her child! #ErinAndrews got 55mil cuz sum1 saw her naked #TeamDl,414,484,22,21.0,31,SAC,@,CHI,W (+1),1,37,5,8,0.625,2,4,0.5,1,1,1.0,1,4,5,3,1,1,1,2,13,13.3,11.0,0
+393,393,2017-12-14,"Join in spreading holiday cheer this Saturday, December 16 at 9AM for the 3rd annual… https://t.co/WueOVQCXDv",420,490,28,27.0,31,SAC,@,MIN,L (-23),1,18,1,5,0.2,1,3,0.333,0,0,,2,1,3,3,0,0,0,4,3,2.1,-22.0,0
+394,394,2017-12-19,Grew up watching 8 and had the honor of playing against 24!!! Congrats!!! #WellDeserved #mambaday https://t.co/Y0Z1jf2GOB,422,492,30,29.0,31,SAC,@,PHI,W (+6),1,33,4,9,0.444,0,2,0.0,1,4,0.25,2,6,8,4,1,0,0,4,9,8.5,0.0,-1
+395,395,2017-12-20,"“The grind and work is ACTUALLY the dream, and if you understand that. Your dreams won’t come true... something greater will!!!”                          - @kobebryant",423,493,31,30.0,31,SAC,@,BRK,W (+5),1,28,2,7,0.286,1,4,0.25,0,0,,0,1,1,1,0,1,1,3,5,0.4,-5.0,0
+396,396,2017-12-26,".@WashWizards point guard @JohnWall gifts family that has fallen on hard times $1,000 worth of groceries, tickets to a game and pays private school tuition for the family's twins. https://t.co/MfN6alIAgU",425,495,33,32.0,31,SAC,@,LAC,L (-27),1,22,3,6,0.5,0,1,0.0,3,3,1.0,1,2,3,2,0,2,0,1,9,9.7,-7.0,1
+397,397,2017-12-26,@GTemp14 Merry Christmas my man!,425,495,33,32.0,31,SAC,@,LAC,L (-27),1,22,3,6,0.5,0,1,0.0,3,3,1.0,1,2,3,2,0,2,0,1,9,9.7,-7.0,-1
+398,398,2017-12-26,"Texas police replace stolen gifts for family.
+
+Another awesome Christmas Story! https://t.co/cfsO2yFG7n",425,495,33,32.0,31,SAC,@,LAC,L (-27),1,22,3,6,0.5,0,1,0.0,3,3,1.0,1,2,3,2,0,2,0,1,9,9.7,-7.0,1
+399,399,2018-01-25,"They never 👀 the work u put in, they just care about the result... Middy game is getting there… https://t.co/1CqU0ouNvz",438,510,48,45.0,31,SAC,@,MIA,W (+1),0,19,1,7,0.143,0,2,0.0,3,4,0.75,0,1,1,3,0,0,4,1,5,-1.9,-15.0,0
+400,400,2018-01-25,"The Tigers earned their first win at home against an SEC foe while former Tiger Garrett Temple had a career-high 34 points against Orlando. 
+
+📄:https://t.co/m4zYno6hfJ",438,510,48,45.0,31,SAC,@,MIA,W (+1),0,19,1,7,0.143,0,2,0.0,3,4,0.75,0,1,1,3,0,0,4,1,5,-1.9,-15.0,1
+401,401,2018-01-25,"Great win fellas, I was so bad today but my guys @GTemp14 and @THEwillieCS15 secured a win for us! #SacramentoProud #roadwin 
+Off to Miami! 👋",438,510,48,45.0,31,SAC,@,MIA,W (+1),0,19,1,7,0.143,0,2,0.0,3,4,0.75,0,1,1,3,0,0,4,1,5,-1.9,-15.0,0
+402,402,2018-01-25,To God Be The Glory!!!!,438,510,48,45.0,31,SAC,@,MIA,W (+1),0,19,1,7,0.143,0,2,0.0,3,4,0.75,0,1,1,3,0,0,4,1,5,-1.9,-15.0,0
+403,403,2018-01-25,. @GTemp14 👀🤔 #fortheKingdom,438,510,48,45.0,31,SAC,@,MIA,W (+1),0,19,1,7,0.143,0,2,0.0,3,4,0.75,0,1,1,3,0,0,4,1,5,-1.9,-15.0,0
+404,404,2018-01-30,"A Pelicans fan snuck on to the court for warmups, stretched and put up a shot before the police escorted him off. Dying 😂😂 https://t.co/ckytG5T8q1",439,512,50,46.0,31,SAC,@,NOP,W (+11),0,32,5,12,0.417,3,5,0.6,2,2,1.0,0,2,2,6,1,0,2,3,15,11.2,2.0,0
+405,405,2018-01-30,"Hey Sac High, hope you’re having a great week. We’re on a long road trip, but I’m still thinking about you and hope that you’re taking care of your academics. Keep up the hard work and don’t forget to tag me using #GTDragons on social media so I can see what y’all are up to!!! https://t.co/dTF1CsTirc",439,512,50,46.0,31,SAC,@,NOP,W (+11),0,32,5,12,0.417,3,5,0.6,2,2,1.0,0,2,2,6,1,0,2,3,15,11.2,2.0,1
+406,406,2018-02-02,Prayers up for you lil bro @SiP03 #bounceback #ondeck 🙏🏾🙏🏾,440,513,51,47.0,31,SAC,,GSW,L (-15),0,10,0,3,0.0,0,1,0.0,0,0,,0,1,1,1,0,0,0,1,0,-1.5,-14.0,0
+407,407,2018-02-02,Sooo @CJMcCollum that’s what u on??? 50 in less than 30 mins😂😂😂 that’s crazy!! #respect,440,513,51,47.0,31,SAC,,GSW,L (-15),0,10,0,3,0.0,0,1,0.0,0,0,,0,1,1,1,0,0,0,1,0,-1.5,-14.0,-1
+408,408,2018-02-09,That block plus the game winner... still the best in the game @KingJames,443,516,54,50.0,31,SAC,,POR,L (-18),0,27,1,8,0.125,1,3,0.333,0,0,,1,4,5,2,0,0,1,2,3,-0.7,-15.0,1
+409,409,2018-02-09,Trades going crazy. When it rains it pours. #deadlineday,443,516,54,50.0,31,SAC,,POR,L (-18),0,27,1,8,0.125,1,3,0.333,0,0,,1,4,5,2,0,0,1,2,3,-0.7,-15.0,-1
+410,410,2018-02-09,"Rick Adelman's Son Killed, Ex-NBA Asst. Coach Hit While Crossing Street https://t.co/r6colxAjlQ",443,516,54,50.0,31,SAC,,POR,L (-18),0,27,1,8,0.125,1,3,0.333,0,0,,1,4,5,2,0,0,1,2,3,-0.7,-15.0,1
+411,411,2018-02-13,MONDAY 🚨⏰ https://t.co/ABeWyf4zmc,445,518,56,52.0,31,SAC,@,DAL,W (+5),0,19,4,7,0.571,2,3,0.667,3,4,0.75,0,0,0,2,0,0,1,4,13,8.1,8.0,0
+412,412,2018-02-13,"HE CANNOT BE SERIOUS when he said “Anglo-American” can he???... oh of course he is, it’s Jeff Sessions. #ICantMakeThisUp #ItsLaughable https://t.co/zJWzwDkBPB",445,518,56,52.0,31,SAC,@,DAL,W (+5),0,19,4,7,0.571,2,3,0.667,3,4,0.75,0,0,0,2,0,0,1,4,13,8.1,8.0,0
+413,413,2018-02-13,"She should look up the average income for a family (mother, father and children). A lot of times it’s less then that. If she can’t make that work she should just give custody to him. I’m sure he can handle it lol https://t.co/hOldt1nEve",445,518,56,52.0,31,SAC,@,DAL,W (+5),0,19,4,7,0.571,2,3,0.667,3,4,0.75,0,0,0,2,0,0,1,4,13,8.1,8.0,1
+414,414,2018-02-24,Showing my young fella the ropes at All ⭐️ @justwatchkach @ JW Marriott Los Angeles L.A. LIVE https://t.co/U98v1nZNy8,448,521,59,55.0,31,SAC,,LAL,L (-5),0,17,1,4,0.25,1,1,1.0,0,0,,0,1,1,3,1,1,2,1,3,2.3,10.0,-1
+415,415,2018-03-04,"Saw blackpanther for a FOURTH time. Brought some of my people from sachighoakpark to see it, and… https://t.co/gN7spEE6s5",450,526,64,57.0,31,SAC,,NYK,W (+3),0,21,1,4,0.25,1,4,0.25,0,0,,0,2,2,4,1,1,0,2,3,4.9,-9.0,0
+416,416,2018-03-04,FOURTH time checking out @theblackpanther and this time I brought some folks with me!!! https://t.co/LirrY0VTvs,450,526,64,57.0,31,SAC,,NYK,W (+3),0,21,1,4,0.25,1,4,0.25,0,0,,0,2,2,4,1,1,0,2,3,4.9,-9.0,-1
+417,417,2018-03-11,He gotta catch deez hands for that. https://t.co/ObuOr2wVnO,453,529,67,60.0,31,SAC,@,DEN,L (-26),0,20,2,5,0.4,1,3,0.333,2,2,1.0,0,0,0,0,0,0,0,2,7,3.5,1.0,-1
+418,418,2018-03-11,Met the cutest BALLER ever last night after the game!!! Her game/handles are🔥🔥🔥🔥. Look out for… https://t.co/Uq4EbZHIB2,453,529,67,60.0,31,SAC,@,DEN,L (-26),0,20,2,5,0.4,1,3,0.333,2,2,1.0,0,0,0,0,0,0,0,2,7,3.5,1.0,1
+419,419,2018-03-12,I’m watching this #AFootballLife about JOHN RANDLE ... GREAT TV!!! This dude was a BEAST!! I loved playing with the Vikings on NFL gameday 98 on PS1 because of him lol.,454,530,68,61.0,31,SAC,@,OKC,L (-5),0,29,5,9,0.556,3,5,0.6,2,2,1.0,2,5,7,1,2,1,3,4,15,12.4,1.0,1
+420,420,2018-10-30,"THE FACT IS... 663 million people in the world lack access to safe water!! That's 1 out of every 10 people. That's why I joined @ATolliver44 of minnesotawolves, Joe Harris of… https://t.co/sGf2zxbkBD",464,540,6,6.0,32,MEM,,WAS,W (+12),1,36,5,13,0.385,4,7,0.571,6,6,1.0,1,6,7,1,0,0,3,0,20,13.1,18.0,-1
+421,421,2018-10-30,"Hoops2o Starting Five:
+Malcolm Brogdon
+@ATolliver44
+@JusAnderson1
+Joe Harris
+@GTemp17
+-
+#nba #hoops2o #cleanwater #startingfive #ballislife @Bucks @Timberwolves @memgrizz @BrooklynNets @ATLHawks https://t.co/dfaDnfDzb9",464,540,6,6.0,32,MEM,,WAS,W (+12),1,36,5,13,0.385,4,7,0.571,6,6,1.0,1,6,7,1,0,0,3,0,20,13.1,18.0,0
+422,422,2018-11-02,Halloween 2018!! https://t.co/ZzWn5And7D,465,541,7,7.0,32,MEM,@,UTA,W (+10),1,35,5,10,0.5,1,4,0.25,1,2,0.5,2,2,4,0,2,0,1,3,12,8.4,5.0,0
+423,423,2018-11-07,Big things happening with @waterboysORG #Hoops2o. Me and the Starting Five are looking to fully fund the first Hoops2o well in East Africa and change lives through clean water. Check… https://t.co/zYjwvYYWSl,468,544,10,10.0,32,MEM,,DEN,W (+2),1,30,1,4,0.25,0,2,0.0,3,4,0.75,0,2,2,0,0,0,1,3,5,0.6,10.0,-1
+424,424,2018-11-10,"If @ReggieMillerTNT knew why M Brogdon didn’t pass to E Bled on the break, he may understand. He’s raising money to fund water wells in east Africa. Those two points mean a lot more coming from Malcolm! Each point he scores this month means a donation to the cause! #hoops2o",469,545,11,11.0,32,MEM,,PHI,W (+6),1,37,7,14,0.5,3,6,0.5,0,0,,0,2,2,0,2,0,1,3,17,10.4,9.0,0
+425,425,2018-11-12,"Quinn Cook (@QCook323) started in place of Steph Curry (groin injury) tonight vs the Nets and he was TERRIFIC. The 25-year-old had 27 points, 5 assists, 3 boards, 1 steal, 0 turnovers in 30 minutes, while shooting 11-16 from the field (68.8%) and 3-5 from three-point range (60%). https://t.co/FDA5GngcCO",470,546,12,12.0,32,MEM,,UTA,L (-8),1,34,2,8,0.25,0,4,0.0,2,2,1.0,0,2,2,0,0,0,1,5,6,-1.2,-22.0,0
+426,426,2018-11-12,Bigtime win!!! Had to protect home!! #gng 😎😎 #rayray https://t.co/h6RILqmdUG,470,546,12,12.0,32,MEM,,UTA,L (-8),1,34,2,8,0.25,0,4,0.0,2,2,1.0,0,2,2,0,0,0,1,5,6,-1.2,-22.0,0
+427,427,2018-11-14,She wasn’t going for it... https://t.co/gDdtDIWQR7,471,547,13,13.0,32,MEM,@,MIL,W (+3),1,38,3,9,0.333,1,4,0.25,4,4,1.0,0,5,5,2,2,0,1,4,11,8.2,13.0,0
+428,428,2018-11-16,"Keep that love coming, y’all – We’re closing in on @waterboysORG #Hoops2o well number one. Two weeks down, two more to go so visit the Ballin’ For Buckets page and make your donation… https://t.co/eMw4d8dba4",472,548,14,14.0,32,MEM,,SAC,W (+8),1,29,5,6,0.833,3,4,0.75,1,1,1.0,0,5,5,2,3,0,0,2,14,16.9,5.0,1
+429,429,2018-11-18,🔒 in... had to protect home!!! #gng @ FedExForum https://t.co/GMfIBiE3Vj,473,549,15,15.0,32,MEM,@,MIN,W (+13),1,33,3,9,0.333,1,2,0.5,1,2,0.5,1,7,8,1,2,0,1,4,8,5.4,21.0,0
+430,430,2018-11-21,Got another one at the 🏠 #gng #babybluekillas https://t.co/BUTRflHdpQ,475,551,17,17.0,32,MEM,@,SAS,W (+1),1,32,2,7,0.286,0,2,0.0,0,0,,0,1,1,1,1,1,1,1,4,1.2,8.0,-1
+431,431,2018-11-21,EXCITED to get a blanket BIG enough for the entire family! Shout out to @atolliver44 and bigblanketco for making this happen. Check out their Kickstarter page:… https://t.co/xqSDbpT5ST,475,551,17,17.0,32,MEM,@,SAS,W (+1),1,32,2,7,0.286,0,2,0.0,0,0,,0,1,1,1,1,1,1,1,4,1.2,8.0,0
+432,432,2018-11-23,So ummm....since we won can @jarenjacksonjr get some dap @Jmyke1? 😂 https://t.co/uqOIzghdVI,476,552,18,18.0,32,MEM,@,LAC,L (-5),1,38,2,8,0.25,2,7,0.286,0,0,,1,2,3,0,2,0,3,2,6,0.7,-6.0,0
+433,433,2018-12-02,Big Road win last night!!! This youngin here though... 🤯 #RookieAndTheVet #GNG https://t.co/8BsrJqwvSa,480,556,22,22.0,32,MEM,@,PHI,L (-8),1,31,4,9,0.444,3,6,0.5,1,2,0.5,0,4,4,1,0,0,0,1,12,8.4,-9.0,0
+434,434,2018-12-12,Happy Birthday to my beautiful lil sister colleentemple I am so proud of the person you are growing up to be!!! I love you C!!! https://t.co/aaF13b3fZO,485,561,27,27.0,32,MEM,,POR,W (+9),1,30,1,6,0.167,0,3,0.0,2,3,0.667,0,3,3,0,1,0,0,1,4,1.3,-1.0,1
+435,435,2018-12-21,"The smile caught me, then I fell in love with everything else! https://t.co/zVksptCqOk",490,566,32,32.0,32,MEM,@,SAC,L (-3),1,38,6,9,0.667,3,5,0.6,2,2,1.0,0,4,4,2,2,1,3,3,17,14.2,-7.0,1
+436,436,2019-01-12,.@HGiiizzle was all over the court in a strong performance off the bench 🎥 https://t.co/sMZIzy6nAB,500,576,42,42.0,32,MEM,@,MIA,L (-4),1,31,3,6,0.5,2,4,0.5,1,2,0.5,0,1,1,0,0,0,2,3,9,2.7,-17.0,1
+437,437,2019-01-21,They cheated us 🤦🏽‍♂️🤦🏽‍♂️🤦🏽‍♂️,505,581,47,47.0,32,MEM,,NOP,L (-20),1,38,3,10,0.3,2,7,0.286,1,2,0.5,1,7,8,4,1,0,2,2,9,6.6,-8.0,0
+438,438,2019-02-11,Hellava comeback road win with the new squad!!! Good drop off rook shai @ TD Garden https://t.co/iOczPzlnyf,509,592,58,51.0,32,LAC,@,MIN,L (-10),1,18,1,4,0.25,0,2,0.0,2,2,1.0,2,1,3,2,0,0,2,2,4,1.9,-32.0,1
+439,439,2019-03-24,"This is so reminiscent of our ‘06 Final Four run. Had a lead in the second round, team came back and took the lead, then we hit a game winner to make it to the sweet 16. Something special is in the air!!!! #forever44 🙌🏾 #GeauxTigers",525,608,74,67.0,32,LAC,@,NYK,W (+11),0,18,0,2,0.0,0,1,0.0,0,0,,2,0,2,3,2,0,1,1,0,2.7,1.0,-1
+440,440,2019-03-24,Sweet 16 on deck!!!! #GeauxTigers,525,608,74,67.0,32,LAC,@,NYK,W (+11),0,18,0,2,0.0,0,1,0.0,0,0,,2,0,2,3,2,0,1,1,0,2.7,1.0,0
+441,441,2019-04-15,🐅🐅🐅🐅,535,618,2,2.0,32,LAC,@,GSW,W (+4),0,10,2,4,0.5,1,2,0.5,2,2,1.0,0,1,1,0,1,0,0,3,7,5.1,1.0,0
+442,442,2019-04-26,Team full of DOGS 😤,539,622,6,6.0,32,LAC,,GSW,L (-19),0,8,0,1,0.0,0,1,0.0,2,2,1.0,0,2,2,0,0,0,0,1,2,1.5,-11.0,-1
+443,443,2020-02-29,"Garrett Temple’s grandfather couldn't get into LSU.
+Garrett's father was LSU's first black basketball player.
+Garrett's LSU team went to the Final Four with an all-black starting five.
+
+@YESNetwork sits down with @GTemp17 and his father, Collis, in a #BlackHistoryMonth special: https://t.co/0Es62s8PNS",593,681,59,54.0,33,BRK,@,MIA,L (-3),0,22,3,7,0.429,1,4,0.25,0,0,,0,5,5,4,0,1,0,0,7,8.3,-10.0,-1
+444,444,2020-08-05,DEVIN BOOKER! GAME-WINNER! 😱 https://t.co/vUvwABgyE5,598,686,68,59.0,34,BRK,@,BOS,L (-34),0,5,0,2,0.0,0,0,,0,0,,0,0,0,0,0,0,1,3,0,-3.6,-10.0,0
+445,445,2020-08-05,CLUTCH CLAMP @4k_Jeremiah 🔒 https://t.co/7oQYeSsafB,598,686,68,59.0,34,BRK,@,BOS,L (-34),0,5,0,2,0.0,0,0,,0,0,,0,0,0,0,0,0,1,3,0,-3.6,-10.0,0
+446,446,2020-08-13,Just posted a photo https://t.co/mxmyP59rsO,601,690,72,62.0,34,BRK,,POR,L (-1),1,37,4,10,0.4,3,7,0.429,4,4,1.0,1,9,10,4,0,0,0,2,15,15.0,12.0,0
+447,447,2021-02-15,Happy Valentine’s Day to my superwoman!! @twotemple2020 and I are so lucky to have you in our lives!! https://t.co/EYb0EIJ6dH,630,719,26,25.0,34,CHI,@,IND,W (+8),1,39,6,11,0.545,2,4,0.5,2,2,1.0,1,3,4,1,2,1,0,5,16,13.7,19.0,1
+448,448,2021-04-21,https://t.co/eeWbMYHK3U,647,751,58,42.0,34,CHI,@,CLE,L (-16),1,26,2,7,0.286,0,4,0.0,0,0,,0,2,2,2,1,0,0,3,4,1.7,-25.0,0
+449,449,2021-04-21,Statement from the New Orleans Saints: https://t.co/jYXuAU6MRe,647,751,58,42.0,34,CHI,@,CLE,L (-16),1,26,2,7,0.286,0,4,0.0,0,0,,0,2,2,2,1,0,0,3,4,1.7,-25.0,0
