@@ -273,8 +273,7 @@ def time_end_start(i, start_time):
 
 
 def run():
-
-    file_dir = "D:\players\ing"
+    file_dir = "D:\players\ing"    # By modifying this path, the web crawler can read CSV files and crawl tweets corresponding to users id and dates.
     for root, dirs, files in os.walk(file_dir):
         # print("The number of files to be processed is:" + str(len(files)))
         for file in files:
