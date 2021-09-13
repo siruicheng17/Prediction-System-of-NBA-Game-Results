@@ -27,7 +27,7 @@ def predict(content):
     return emotion[y_preds[0]]
 
 if __name__ == '__main__':
-    files_path='C:\\Users\\cheng sirui\\Desktop\\Project\\merge\\'
+    files_path='C:\\Users\\cheng sirui\\Desktop\\Project\\merge\\'     # By modifying this path, the model can predict the sentiment of tweets in files in batches.
     files=os.listdir(files_path)
     for file in files:
         tmp=pd.read_csv(files_path+file)
