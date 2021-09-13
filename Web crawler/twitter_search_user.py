@@ -96,7 +96,6 @@ def get_html(url):
 
 
 def get_twitter_info(tim, threeDayAgosss, j,df,index,file):
-    print("!!!!!!!!!!!!!!!!!!!!!!!!", tim, threeDayAgosss)
     cursors = ''
     num = 0
     while num < 50:
@@ -107,7 +106,6 @@ def get_twitter_info(tim, threeDayAgosss, j,df,index,file):
             res = get_html(url)
             res_dict = res.json()
             if res_dict['globalObjects']['tweets']:
-                print("aaaa")
                 get_twitter_article(res_dict['globalObjects'], j,df,index,file)
                 try:
                     if res_dict['timeline']['instructions'][0]['addEntries']['entries'][-1]:
@@ -123,7 +121,7 @@ def get_twitter_info(tim, threeDayAgosss, j,df,index,file):
             else:
                 break
         except Exception as e:
-            print("Error on the next page.:", e)
+            print("Error on the next page:", e)
             break
 
 
@@ -138,7 +136,6 @@ def get_twitter_article(data, keyword,df,index,file):
     try:
         if data:
             for key, i in data['tweets'].items():
-                print('------------------------------')
                 info = {}
                 forward_info = {}
                 try:
@@ -277,7 +274,6 @@ def run():
     for root, dirs, files in os.walk(file_dir):
         # print("The number of files to be processed is:" + str(len(files)))
         for file in files:
-            print("zzz",file)
             lis = [file[:-4]]
             df = pd.read_csv("D:\players\ing\\"+"{}".format(file))
             hh = df.shape
